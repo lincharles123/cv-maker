@@ -296,5 +296,34 @@ export const experience: IExperience[] = [
 				]
 			}
 		]
+	},
+	{
+		enterprise: 'Go-AI-cli',
+		position: 'Project Manager',
+		startDate: new Date('2022-07-01'),
+		endDate: new Date('2030-07-01'),
+		description: `Création d'un outil CLI permettant une interaction fluide avec différents modèles d'IA pour de la génération de texte, d'image, TTS, STT, et scraping web.  <a href="https://github.com/MohammadBnei/go-ai-cli" class="link ml-4">GitHub</a>`,
+		missions: [
+			{
+				title: 'Développement',
+				description: `Développement du projet. Utilisation de l'architecture elm (Model - View - Update).`,
+				skills: [
+					{ name: 'cli', category: 'system' },
+					{ name: 'golang', category: 'backend' },
+					{ name: 'langchain', category: 'data' },
+					{ name: 'ai', category: 'data' }
+				],
+				snapshot: true
+			},
+			{
+				title: 'CI/CD',
+				description: `Mise en place d'une pipeline de CI/CD avec goreleaser.`,
+				skills: [
+					{ name: 'github action', category: 'other' },
+					{ name: 'golang', category: 'backend' },
+				],
+				snapshot: true
+			}
+		]
 	}
 ];

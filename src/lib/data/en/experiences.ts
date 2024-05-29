@@ -294,5 +294,34 @@ export const experience: IExperience[] = [
 				]
 			}
 		]
+	},
+	{
+		enterprise: 'Go-AI-cli',
+		position: 'Project Manager',
+		startDate: new Date('2022-07-01'),
+		endDate: new Date('2030-07-01'),
+		description: `Created a CLI tool enabling seamless interaction with AI models for text, TTS, STT, image generation, and web scraping.  <a href="https://github.com/MohammadBnei/go-ai-cli" class="link ml-4">GitHub</a>`,
+		missions: [
+			{
+				title: 'Development',
+				description: `Development of the projet.`,
+				skills: [
+					{ name: 'cli', category: 'system' },
+					{ name: 'golang', category: 'backend' },
+					{ name: 'langchain', category: 'data' },
+					{ name: 'ai', category: 'data' }
+				],
+				snapshot: true
+			},
+			{
+				title: 'CI/CD',
+				description: `Creation of a CI/CD pipeline with goreleaser.`,
+				skills: [
+					{ name: 'github action', category: 'other' },
+					{ name: 'golang', category: 'backend' }
+				],
+				snapshot: true
+			}
+		]
 	}
 ];
