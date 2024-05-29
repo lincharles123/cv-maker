@@ -1,5 +1,12 @@
 
 
+# [0.12.0](https://github.com/MohammadBnei/cv-maker/compare/0.11.2...0.12.0) (2024-05-29)
+
+
+### Features
+
+* **experiences:** added the go-ai-cli experience ([4c0b20e](https://github.com/MohammadBnei/cv-maker/commit/4c0b20e890788b8f0ea6402201686fe68a368028))
+
 ## [0.11.2](https://github.com/MohammadBnei/cv-maker/compare/0.11.1...0.11.2) (2024-01-10)
 
 ## [0.11.1](https://github.com/MohammadBnei/cv-maker/compare/0.11.0...0.11.1) (2023-11-22)
