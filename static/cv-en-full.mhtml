@@ -1,16 +1,16 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://cv.bnei.dev/en?snapshot&full
 Subject: Mohammad-Amine BANAEI - Resume
-Date: Wed, 10 Jan 2024 13:42:27 +0000
+Date: Wed, 29 May 2024 12:51:46 +0000
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--GX0HPsR2EP3dMhluITJYfya1sdlOb4ug7Qlpc9tCpK----"
+	boundary="----MultipartBoundary--lxKywbEuW11cvogVlJeiQQIm5RdMg6v915EGT5PcM4----"
 
 
-------MultipartBoundary--GX0HPsR2EP3dMhluITJYfya1sdlOb4ug7Qlpc9tCpK----
+------MultipartBoundary--lxKywbEuW11cvogVlJeiQQIm5RdMg6v915EGT5PcM4----
 Content-Type: text/html
-Content-ID: <frame-C8FAF8DDD1CF8F82211E31A6A0F62245@mhtml.blink>
+Content-ID: <frame-F6C6B068EED7102FABC9D8B43A3DA354@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/en?snapshot&full
 
@@ -20,30 +20,30 @@ ttp-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
 		<link rel=3D"icon" href=3D"https://cv.bnei.dev/favicon.ico">
 		<meta name=3D"viewport" content=3D"width=3Ddevice-width">
 	=09
-		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/0.R4hrBhUe.css"=
+		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/0.DkcnG7Cq.css"=
  rel=3D"stylesheet">
-		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/HeadTags.MRTein=
-X4.css" rel=3D"stylesheet">
+		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/HeadTags.BNiNBi=
+DP.css" rel=3D"stylesheet">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-entry/start.C4EKBUX9.js">
+entry/start.DlSMj3dc.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/entry.1Ef15ya4.js">
+chunks/entry.C15Eo5SF.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/scheduler.xaZneXw7.js">
+chunks/scheduler.B6nNFbiS.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-entry/app._7k4uAjk.js">
+entry/app.BD2CWLYF.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/index.p-to6mei.js">
+chunks/index.BY6MpxPy.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-nodes/0.Gmveh3RE.js">
+nodes/0.BipS9wVd.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/index.rpWBDzGP.js">
+chunks/index.BaV43eXa.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/stores.uZIhW5j0.js">
+chunks/stores.C7DGQQ9d.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-nodes/3.jW5tMrMp.js">
+nodes/3.CJ_Unwz0.js">
 		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/HeadTags.6p2fdL70.js"><title>Mohammad-Amine BANAEI - Resume</title><=
+chunks/HeadTags.C6ORcSA3.js"><title>Mohammad-Amine BANAEI - Resume</title><=
 meta http-equiv=3D"x-ua-compatible" content=3D"IE=3Dedge,chrome=3D1"><meta =
 name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"><meta=
  name=3D"robots" content=3D"index,follow"><meta name=3D"googlebot" content=
@@ -69,7 +69,7 @@ arding my experiences, skills, training and contact details. Feel free to c=
 ontact me for any offers or for more information."><!-- HTML_TAG_START --><=
 !-- HTML_TAG_END --><!-- HTML_TAG_START --><!-- HTML_TAG_END -->
 	<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"http://=
-127.0.0.1:4173/_app/immutable/nodes/1.dGEk7Syy.js"></head>
+127.0.0.1:4173/_app/immutable/nodes/1.BM9cTLXS.js"></head>
 	<body data-sveltekit-preload-data=3D"hover">
 		<div style=3D"display: contents"><div class=3D"min-h-screen dark:bg-base-=
 300"> <div class=3D"py-0 dark:bg-base-100 py-6 rounded-sm navbar"><div clas=
@@ -146,82 +146,82 @@ w-full" style=3D"grid-area: skill;"><div class=3D"stats shadow h-fit hidden=
 ze text-center h-fit">devops</div> <button aria-label=3D"filter by skill ku=
 bernetes" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs fo=
 nt-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[=
-1.03] transition  svelte-116z7kx">KUBERNETES</span></button><button aria-la=
+1.03] transition  svelte-1huzarr">KUBERNETES</span></button><button aria-la=
 bel=3D"filter by skill docker" class=3D"mb-1"><span class=3D"inline-flex it=
 ems-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 rin=
-g-inset hover:scale-[1.03] transition  svelte-116z7kx">DOCKER</span></butto=
+g-inset hover:scale-[1.03] transition  svelte-1huzarr">DOCKER</span></butto=
 n></div><div class=3D"stat w-44"><div class=3D"stat-title capitalize text-c=
 enter h-fit">backend</div> <button aria-label=3D"filter by skill golang" cl=
 ass=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold roun=
 ded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] trans=
-ition  svelte-116z7kx">GOLANG</span></button><button aria-label=3D"filter b=
+ition  svelte-1huzarr">GOLANG</span></button><button aria-label=3D"filter b=
 y skill nodejs" class=3D"mb-1"><span class=3D"inline-flex items-center text=
 -xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:=
-scale-[1.03] transition  svelte-116z7kx">NODEJS</span></button></div><div c=
+scale-[1.03] transition  svelte-1huzarr">NODEJS</span></button></div><div c=
 lass=3D"stat w-44"><div class=3D"stat-title capitalize text-center h-fit">f=
 rontend</div> <button aria-label=3D"filter by skill reactjs" class=3D"mb-1"=
 ><span class=3D"inline-flex items-center text-xs font-bold rounded-md front=
 end default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svel=
-te-116z7kx">REACTJS</span></button><button aria-label=3D"filter by skill sv=
+te-1huzarr">REACTJS</span></button><button aria-label=3D"filter by skill sv=
 eltekit" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs fon=
 t-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:scale-=
-[1.03] transition  svelte-116z7kx">SVELTEKIT</span></button></div><div clas=
+[1.03] transition  svelte-1huzarr">SVELTEKIT</span></button></div><div clas=
 s=3D"stat w-44"><div class=3D"stat-title capitalize text-center h-fit">syst=
 em</div> <button aria-label=3D"filter by skill gcp" class=3D"mb-1"><span cl=
 ass=3D"inline-flex items-center text-xs font-bold rounded-md system default=
- px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx"=
+ px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr"=
 >GCP</span></button><button aria-label=3D"filter by skill linux" class=3D"m=
 b-1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md s=
 ystem default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sv=
-elte-116z7kx">LINUX</span></button></div><div class=3D"stat w-44"><div clas=
+elte-1huzarr">LINUX</span></button></div><div class=3D"stat w-44"><div clas=
 s=3D"stat-title capitalize text-center h-fit">data</div> <button aria-label=
 =3D"filter by skill sql" class=3D"mb-1"><span class=3D"inline-flex items-ce=
 nter text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset =
-hover:scale-[1.03] transition  svelte-116z7kx">SQL</span></button><button a=
+hover:scale-[1.03] transition  svelte-1huzarr">SQL</span></button><button a=
 ria-label=3D"filter by skill mongodb" class=3D"mb-1"><span class=3D"inline-=
 flex items-center text-xs font-bold rounded-md data default px-2 py-1 ring-=
-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">MONGODB</span><=
+1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">MONGODB</span><=
 /button></div> </div> <div class=3D"sm:hidden"><div class=3D"stats shadow m=
 b-2 mx-2"><div class=3D"stat w-44"><div class=3D"stat-title capitalize text=
 -center">backend</div> <button aria-label=3D"filter by skill golang" class=
 =3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
 -md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transiti=
-on  svelte-116z7kx">GOLANG</span></button><button aria-label=3D"filter by s=
+on  svelte-1huzarr">GOLANG</span></button><button aria-label=3D"filter by s=
 kill nodejs" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs=
  font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:sca=
-le-[1.03] transition  svelte-116z7kx">NODEJS</span></button></div><div clas=
+le-[1.03] transition  svelte-1huzarr">NODEJS</span></button></div><div clas=
 s=3D"stat w-44"><div class=3D"stat-title capitalize text-center">frontend</=
 div> <button aria-label=3D"filter by skill reactjs" class=3D"mb-1"><span cl=
 ass=3D"inline-flex items-center text-xs font-bold rounded-md frontend defau=
-lt px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7k=
-x">REACTJS</span></button><button aria-label=3D"filter by skill sveltekit" =
+lt px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1huzar=
+r">REACTJS</span></button><button aria-label=3D"filter by skill sveltekit" =
 class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold ro=
 unded-md frontend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tr=
-ansition  svelte-116z7kx">SVELTEKIT</span></button></div></div><div class=
+ansition  svelte-1huzarr">SVELTEKIT</span></button></div></div><div class=
 =3D"stats shadow mb-2 mx-2"><div class=3D"stat w-44"><div class=3D"stat-tit=
 le capitalize text-center">devops</div> <button aria-label=3D"filter by ski=
 ll kubernetes" class=3D"mb-1"><span class=3D"inline-flex items-center text-=
 xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:sc=
-ale-[1.03] transition  svelte-116z7kx">KUBERNETES</span></button><button ar=
+ale-[1.03] transition  svelte-1huzarr">KUBERNETES</span></button><button ar=
 ia-label=3D"filter by skill docker" class=3D"mb-1"><span class=3D"inline-fl=
 ex items-center text-xs font-bold rounded-md devops default px-2 py-1 ring-=
-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">DOCKER</span></=
+1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">DOCKER</span></=
 button></div><div class=3D"stat w-44"><div class=3D"stat-title capitalize t=
 ext-center">system</div> <button aria-label=3D"filter by skill gcp" class=
 =3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
 -md system default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transitio=
-n  svelte-116z7kx">GCP</span></button><button aria-label=3D"filter by skill=
+n  svelte-1huzarr">GCP</span></button><button aria-label=3D"filter by skill=
  linux" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font=
 -bold rounded-md system default px-2 py-1 ring-1 ring-inset hover:scale-[1.=
-03] transition  svelte-116z7kx">LINUX</span></button></div></div><div class=
+03] transition  svelte-1huzarr">LINUX</span></button></div></div><div class=
 =3D"stats shadow mb-2 mx-2"><div class=3D"stat w-44"><div class=3D"stat-tit=
 le capitalize text-center">data</div> <button aria-label=3D"filter by skill=
  sql" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-b=
 old rounded-md data default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] =
-transition  svelte-116z7kx">SQL</span></button><button aria-label=3D"filter=
+transition  svelte-1huzarr">SQL</span></button><button aria-label=3D"filter=
  by skill mongodb" class=3D"mb-1"><span class=3D"inline-flex items-center t=
 ext-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:=
-scale-[1.03] transition  svelte-116z7kx">MONGODB</span></button></div></div=
+scale-[1.03] transition  svelte-1huzarr">MONGODB</span></button></div></div=
 > </div> <dialog id=3D"allSkillModal" class=3D"modal"><div class=3D"modal-b=
 ox"><div class=3D"flex gap-2 my-3"><input type=3D"text" class=3D"input inpu=
 t-bordered w-full" placeholder=3D"Filter"> </div> <div class=3D"flex flex-w=
@@ -229,211 +229,220 @@ rap justify-center"><div class=3D"flex flex-col"><h5 class=3D"stat-title ca=
 pitalize text-center my-3">backend</h5> <button aria-label=3D"filter by ski=
 ll c# .net" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs =
 font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:scal=
-e-[1.03] transition  svelte-116z7kx">C# .NET</span></button><button aria-la=
+e-[1.03] transition  svelte-1huzarr">C# .NET</span></button><button aria-la=
 bel=3D"filter by skill c++" class=3D"mb-1"><span class=3D"inline-flex items=
 -center text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-=
-inset hover:scale-[1.03] transition  svelte-116z7kx">C++</span></button><bu=
+inset hover:scale-[1.03] transition  svelte-1huzarr">C++</span></button><bu=
 tton aria-label=3D"filter by skill express" class=3D"mb-1"><span class=3D"i=
 nline-flex items-center text-xs font-bold rounded-md backend default px-2 p=
-y-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">EXPRES=
+y-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">EXPRES=
 S</span></button><button aria-label=3D"filter by skill flask" class=3D"mb-1=
 "><span class=3D"inline-flex items-center text-xs font-bold rounded-md back=
 end default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svel=
-te-116z7kx">FLASK</span></button><button aria-label=3D"filter by skill gola=
+te-1huzarr">FLASK</span></button><button aria-label=3D"filter by skill gola=
 ng" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bol=
 d rounded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03]=
- transition  svelte-116z7kx">GOLANG</span></button><button aria-label=3D"fi=
+ transition  svelte-1huzarr">GOLANG</span></button><button aria-label=3D"fi=
 lter by skill hapi" class=3D"mb-1"><span class=3D"inline-flex items-center =
 text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset ho=
-ver:scale-[1.03] transition  svelte-116z7kx">HAPI</span></button><button ar=
+ver:scale-[1.03] transition  svelte-1huzarr">HAPI</span></button><button ar=
 ia-label=3D"filter by skill hibernate" class=3D"mb-1"><span class=3D"inline=
 -flex items-center text-xs font-bold rounded-md backend default px-2 py-1 r=
-ing-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">HIBERNATE</=
+ing-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">HIBERNATE</=
 span></button><button aria-label=3D"filter by skill java j2e" class=3D"mb-1=
 "><span class=3D"inline-flex items-center text-xs font-bold rounded-md back=
 end default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svel=
-te-116z7kx">JAVA J2E</span></button><button aria-label=3D"filter by skill J=
+te-1huzarr">JAVA J2E</span></button><button aria-label=3D"filter by skill J=
 Units" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-=
 bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.=
-03] transition  svelte-116z7kx">JUNITS</span></button><button aria-label=3D=
+03] transition  svelte-1huzarr">JUNITS</span></button><button aria-label=3D=
 "filter by skill kotlin" class=3D"mb-1"><span class=3D"inline-flex items-ce=
 nter text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-ins=
-et hover:scale-[1.03] transition  svelte-116z7kx">KOTLIN</span></button><bu=
+et hover:scale-[1.03] transition  svelte-1huzarr">KOTLIN</span></button><bu=
 tton aria-label=3D"filter by skill log4j" class=3D"mb-1"><span class=3D"inl=
 ine-flex items-center text-xs font-bold rounded-md backend default px-2 py-=
-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">LOG4J</s=
+1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">LOG4J</s=
 pan></button><button aria-label=3D"filter by skill nestjs" class=3D"mb-1"><=
 span class=3D"inline-flex items-center text-xs font-bold rounded-md backend=
  default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-=
-116z7kx">NESTJS</span></button><button aria-label=3D"filter by skill python=
+1huzarr">NESTJS</span></button><button aria-label=3D"filter by skill python=
 " class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold =
 rounded-md backend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] t=
-ransition  svelte-116z7kx">PYTHON</span></button><button aria-label=3D"filt=
+ransition  svelte-1huzarr">PYTHON</span></button><button aria-label=3D"filt=
 er by skill socket.io" class=3D"mb-1"><span class=3D"inline-flex items-cent=
 er text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset=
- hover:scale-[1.03] transition  svelte-116z7kx">SOCKET.IO</span></button><b=
+ hover:scale-[1.03] transition  svelte-1huzarr">SOCKET.IO</span></button><b=
 utton aria-label=3D"filter by skill websocket" class=3D"mb-1"><span class=
 =3D"inline-flex items-center text-xs font-bold rounded-md backend default p=
-x-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">W=
+x-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">W=
 EBSOCKET</span></button> </div><div class=3D"flex flex-col"><h5 class=3D"st=
 at-title capitalize text-center my-3">frontend</h5> <button aria-label=3D"f=
 ilter by skill angularjs" class=3D"mb-1"><span class=3D"inline-flex items-c=
 enter text-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-i=
-nset hover:scale-[1.03] transition  svelte-116z7kx">ANGULARJS</span></butto=
+nset hover:scale-[1.03] transition  svelte-1huzarr">ANGULARJS</span></butto=
 n><button aria-label=3D"filter by skill flutter" class=3D"mb-1"><span class=
 =3D"inline-flex items-center text-xs font-bold rounded-md frontend default =
-px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">=
+px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">=
 FLUTTER</span></button><button aria-label=3D"filter by skill nodejs" class=
 =3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
 -md frontend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transit=
-ion  svelte-116z7kx">NODEJS</span></button><button aria-label=3D"filter by =
+ion  svelte-1huzarr">NODEJS</span></button><button aria-label=3D"filter by =
 skill Primefaces" class=3D"mb-1"><span class=3D"inline-flex items-center te=
 xt-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hov=
-er:scale-[1.03] transition  svelte-116z7kx">PRIMEFACES</span></button><butt=
+er:scale-[1.03] transition  svelte-1huzarr">PRIMEFACES</span></button><butt=
 on aria-label=3D"filter by skill razorhtml" class=3D"mb-1"><span class=3D"i=
 nline-flex items-center text-xs font-bold rounded-md frontend default px-2 =
-py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">RAZOR=
+py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">RAZOR=
 HTML</span></button><button aria-label=3D"filter by skill reactjs" class=3D=
 "mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md=
  frontend default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition=
-  svelte-116z7kx">REACTJS</span></button><button aria-label=3D"filter by sk=
+  svelte-1huzarr">REACTJS</span></button><button aria-label=3D"filter by sk=
 ill sveltekit" class=3D"mb-1"><span class=3D"inline-flex items-center text-=
 xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:=
-scale-[1.03] transition  svelte-116z7kx">SVELTEKIT</span></button><button a=
+scale-[1.03] transition  svelte-1huzarr">SVELTEKIT</span></button><button a=
 ria-label=3D"filter by skill vuejs" class=3D"mb-1"><span class=3D"inline-fl=
 ex items-center text-xs font-bold rounded-md frontend default px-2 py-1 rin=
-g-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">VUEJS</span><=
+g-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">VUEJS</span><=
 /button><button aria-label=3D"filter by skill webRTC" class=3D"mb-1"><span =
 class=3D"inline-flex items-center text-xs font-bold rounded-md frontend def=
-ault px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z=
-7kx">WEBRTC</span></button> </div><div class=3D"flex flex-col"><h5 class=3D=
+ault px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1huz=
+arr">WEBRTC</span></button> </div><div class=3D"flex flex-col"><h5 class=3D=
 "stat-title capitalize text-center my-3">data</h5> <button aria-label=3D"fi=
-lter by skill elk" class=3D"mb-1"><span class=3D"inline-flex items-center t=
-ext-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:=
-scale-[1.03] transition  svelte-116z7kx">ELK</span></button><button aria-la=
-bel=3D"filter by skill mongodb" class=3D"mb-1"><span class=3D"inline-flex i=
-tems-center text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring=
--inset hover:scale-[1.03] transition  svelte-116z7kx">MONGODB</span></butto=
-n><button aria-label=3D"filter by skill mssql " class=3D"mb-1"><span class=
-=3D"inline-flex items-center text-xs font-bold rounded-md data default px-2=
- py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">MSSQ=
-L </span></button><button aria-label=3D"filter by skill mysql" class=3D"mb-=
-1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md dat=
-a default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte=
--116z7kx">MYSQL</span></button><button aria-label=3D"filter by skill nosql"=
+lter by skill ai" class=3D"mb-1"><span class=3D"inline-flex items-center te=
+xt-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:s=
+cale-[1.03] transition  svelte-1huzarr">AI</span></button><button aria-labe=
+l=3D"filter by skill elk" class=3D"mb-1"><span class=3D"inline-flex items-c=
+enter text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset=
+ hover:scale-[1.03] transition  svelte-1huzarr">ELK</span></button><button =
+aria-label=3D"filter by skill langchain" class=3D"mb-1"><span class=3D"inli=
+ne-flex items-center text-xs font-bold rounded-md data default px-2 py-1 ri=
+ng-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">LANGCHAIN</s=
+pan></button><button aria-label=3D"filter by skill mongodb" class=3D"mb-1">=
+<span class=3D"inline-flex items-center text-xs font-bold rounded-md data d=
+efault px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1h=
+uzarr">MONGODB</span></button><button aria-label=3D"filter by skill mssql "=
  class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold r=
 ounded-md data default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] trans=
-ition  svelte-116z7kx">NOSQL</span></button><button aria-label=3D"filter by=
- skill redis" class=3D"mb-1"><span class=3D"inline-flex items-center text-x=
-s font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:scale=
--[1.03] transition  svelte-116z7kx">REDIS</span></button><button aria-label=
-=3D"filter by skill sql" class=3D"mb-1"><span class=3D"inline-flex items-ce=
-nter text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset =
-hover:scale-[1.03] transition  svelte-116z7kx">SQL</span></button> </div><d=
-iv class=3D"flex flex-col"><h5 class=3D"stat-title capitalize text-center m=
-y-3">devops</h5> <button aria-label=3D"filter by skill ansible" class=3D"mb=
--1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md de=
-vops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sve=
-lte-116z7kx">ANSIBLE</span></button><button aria-label=3D"filter by skill a=
-rchitecture" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs=
- font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scal=
-e-[1.03] transition  svelte-116z7kx">ARCHITECTURE</span></button><button ar=
-ia-label=3D"filter by skill aws" class=3D"mb-1"><span class=3D"inline-flex =
-items-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 r=
-ing-inset hover:scale-[1.03] transition  svelte-116z7kx">AWS</span></button=
-><button aria-label=3D"filter by skill azure" class=3D"mb-1"><span class=3D=
-"inline-flex items-center text-xs font-bold rounded-md devops default px-2 =
-py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">AZURE=
-</span></button><button aria-label=3D"filter by skill circleci" class=3D"mb=
--1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md de=
-vops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sve=
-lte-116z7kx">CIRCLECI</span></button><button aria-label=3D"filter by skill =
-docker" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font=
--bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.=
-03] transition  svelte-116z7kx">DOCKER</span></button><button aria-label=3D=
-"filter by skill github action" class=3D"mb-1"><span class=3D"inline-flex i=
-tems-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ri=
-ng-inset hover:scale-[1.03] transition  svelte-116z7kx">GITHUB ACTION</span=
-></button><button aria-label=3D"filter by skill google cloud" class=3D"mb-1=
-"><span class=3D"inline-flex items-center text-xs font-bold rounded-md devo=
-ps default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelt=
-e-116z7kx">GOOGLE CLOUD</span></button><button aria-label=3D"filter by skil=
-l grpc" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font=
--bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.=
-03] transition  svelte-116z7kx">GRPC</span></button><button aria-label=3D"f=
-ilter by skill jenkins" class=3D"mb-1"><span class=3D"inline-flex items-cen=
-ter text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset=
- hover:scale-[1.03] transition  svelte-116z7kx">JENKINS</span></button><but=
-ton aria-label=3D"filter by skill kong" class=3D"mb-1"><span class=3D"inlin=
+ition  svelte-1huzarr">MSSQL </span></button><button aria-label=3D"filter b=
+y skill mysql" class=3D"mb-1"><span class=3D"inline-flex items-center text-=
+xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:scal=
+e-[1.03] transition  svelte-1huzarr">MYSQL</span></button><button aria-labe=
+l=3D"filter by skill nosql" class=3D"mb-1"><span class=3D"inline-flex items=
+-center text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-ins=
+et hover:scale-[1.03] transition  svelte-1huzarr">NOSQL</span></button><but=
+ton aria-label=3D"filter by skill redis" class=3D"mb-1"><span class=3D"inli=
+ne-flex items-center text-xs font-bold rounded-md data default px-2 py-1 ri=
+ng-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">REDIS</span>=
+</button><button aria-label=3D"filter by skill sql" class=3D"mb-1"><span cl=
+ass=3D"inline-flex items-center text-xs font-bold rounded-md data default p=
+x-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">S=
+QL</span></button> </div><div class=3D"flex flex-col"><h5 class=3D"stat-tit=
+le capitalize text-center my-3">devops</h5> <button aria-label=3D"filter by=
+ skill ansible" class=3D"mb-1"><span class=3D"inline-flex items-center text=
+-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:s=
+cale-[1.03] transition  svelte-1huzarr">ANSIBLE</span></button><button aria=
+-label=3D"filter by skill architecture" class=3D"mb-1"><span class=3D"inlin=
 e-flex items-center text-xs font-bold rounded-md devops default px-2 py-1 r=
-ing-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">KONG</span>=
-</button><button aria-label=3D"filter by skill kubernetes" class=3D"mb-1"><=
-span class=3D"inline-flex items-center text-xs font-bold rounded-md devops =
-default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1=
-16z7kx">KUBERNETES</span></button><button aria-label=3D"filter by skill lin=
-ux" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bol=
+ing-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">ARCHITECTUR=
+E</span></button><button aria-label=3D"filter by skill aws" class=3D"mb-1">=
+<span class=3D"inline-flex items-center text-xs font-bold rounded-md devops=
+ default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-=
+1huzarr">AWS</span></button><button aria-label=3D"filter by skill azure" cl=
+ass=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold roun=
+ded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transi=
+tion  svelte-1huzarr">AZURE</span></button><button aria-label=3D"filter by =
+skill circleci" class=3D"mb-1"><span class=3D"inline-flex items-center text=
+-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:s=
+cale-[1.03] transition  svelte-1huzarr">CIRCLECI</span></button><button ari=
+a-label=3D"filter by skill docker" class=3D"mb-1"><span class=3D"inline-fle=
+x items-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1=
+ ring-inset hover:scale-[1.03] transition  svelte-1huzarr">DOCKER</span></b=
+utton><button aria-label=3D"filter by skill google cloud" class=3D"mb-1"><s=
+pan class=3D"inline-flex items-center text-xs font-bold rounded-md devops d=
+efault px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1h=
+uzarr">GOOGLE CLOUD</span></button><button aria-label=3D"filter by skill gr=
+pc" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bol=
 d rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] =
-transition  svelte-116z7kx">LINUX</span></button><button aria-label=3D"filt=
-er by skill microservices" class=3D"mb-1"><span class=3D"inline-flex items-=
-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-in=
-set hover:scale-[1.03] transition  svelte-116z7kx">MICROSERVICES</span></bu=
-tton><button aria-label=3D"filter by skill rest" class=3D"mb-1"><span class=
-=3D"inline-flex items-center text-xs font-bold rounded-md devops default px=
--2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">RE=
-ST</span></button><button aria-label=3D"filter by skill terraform" class=3D=
-"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md=
- devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  =
-svelte-116z7kx">TERRAFORM</span></button><button aria-label=3D"filter by sk=
-ill tls" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs fon=
-t-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1=
-.03] transition  svelte-116z7kx">TLS</span></button><button aria-label=3D"f=
-ilter by skill traefik" class=3D"mb-1"><span class=3D"inline-flex items-cen=
-ter text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset=
- hover:scale-[1.03] transition  svelte-116z7kx">TRAEFIK</span></button> </d=
-iv><div class=3D"flex flex-col"><h5 class=3D"stat-title capitalize text-cen=
-ter my-3">system</h5> <button aria-label=3D"filter by skill bare metal" cla=
-ss=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold round=
-ed-md system default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transit=
-ion  svelte-116z7kx">BARE METAL</span></button><button aria-label=3D"filter=
- by skill gcp" class=3D"mb-1"><span class=3D"inline-flex items-center text-=
-xs font-bold rounded-md system default px-2 py-1 ring-1 ring-inset hover:sc=
-ale-[1.03] transition  svelte-116z7kx">GCP</span></button> </div><div class=
-=3D"flex flex-col"><h5 class=3D"stat-title capitalize text-center my-3">oth=
-er</h5> <button aria-label=3D"filter by skill agile" class=3D"mb-1"><span c=
-lass=3D"inline-flex items-center text-xs font-bold rounded-md other default=
- px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx"=
->AGILE</span></button><button aria-label=3D"filter by skill git" class=3D"m=
-b-1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md o=
-ther default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  sve=
-lte-116z7kx">GIT</span></button><button aria-label=3D"filter by skill kanba=
-n" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold=
- rounded-md other default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tr=
-ansition  svelte-116z7kx">KANBAN</span></button><button aria-label=3D"filte=
-r by skill leaflet" class=3D"mb-1"><span class=3D"inline-flex items-center =
+transition  svelte-1huzarr">GRPC</span></button><button aria-label=3D"filte=
+r by skill jenkins" class=3D"mb-1"><span class=3D"inline-flex items-center =
+text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hov=
+er:scale-[1.03] transition  svelte-1huzarr">JENKINS</span></button><button =
+aria-label=3D"filter by skill kong" class=3D"mb-1"><span class=3D"inline-fl=
+ex items-center text-xs font-bold rounded-md devops default px-2 py-1 ring-=
+1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">KONG</span></bu=
+tton><button aria-label=3D"filter by skill kubernetes" class=3D"mb-1"><span=
+ class=3D"inline-flex items-center text-xs font-bold rounded-md devops defa=
+ult px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1huza=
+rr">KUBERNETES</span></button><button aria-label=3D"filter by skill linux" =
+class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold ro=
+unded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tran=
+sition  svelte-1huzarr">LINUX</span></button><button aria-label=3D"filter b=
+y skill microservices" class=3D"mb-1"><span class=3D"inline-flex items-cent=
+er text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset =
+hover:scale-[1.03] transition  svelte-1huzarr">MICROSERVICES</span></button=
+><button aria-label=3D"filter by skill rest" class=3D"mb-1"><span class=3D"=
+inline-flex items-center text-xs font-bold rounded-md devops default px-2 p=
+y-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">REST</=
+span></button><button aria-label=3D"filter by skill terraform" class=3D"mb-=
+1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md dev=
+ops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svel=
+te-1huzarr">TERRAFORM</span></button><button aria-label=3D"filter by skill =
+tls" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bo=
+ld rounded-md devops default px-2 py-1 ring-1 ring-inset hover:scale-[1.03]=
+ transition  svelte-1huzarr">TLS</span></button><button aria-label=3D"filte=
+r by skill traefik" class=3D"mb-1"><span class=3D"inline-flex items-center =
+text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hov=
+er:scale-[1.03] transition  svelte-1huzarr">TRAEFIK</span></button> </div><=
+div class=3D"flex flex-col"><h5 class=3D"stat-title capitalize text-center =
+my-3">system</h5> <button aria-label=3D"filter by skill bare metal" class=
+=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold rounded=
+-md system default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transitio=
+n  svelte-1huzarr">BARE METAL</span></button><button aria-label=3D"filter b=
+y skill cli" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs=
+ font-bold rounded-md system default px-2 py-1 ring-1 ring-inset hover:scal=
+e-[1.03] transition  svelte-1huzarr">CLI</span></button><button aria-label=
+=3D"filter by skill gcp" class=3D"mb-1"><span class=3D"inline-flex items-ce=
+nter text-xs font-bold rounded-md system default px-2 py-1 ring-1 ring-inse=
+t hover:scale-[1.03] transition  svelte-1huzarr">GCP</span></button> </div>=
+<div class=3D"flex flex-col"><h5 class=3D"stat-title capitalize text-center=
+ my-3">other</h5> <button aria-label=3D"filter by skill agile" class=3D"mb-=
+1"><span class=3D"inline-flex items-center text-xs font-bold rounded-md oth=
+er default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelt=
+e-1huzarr">AGILE</span></button><button aria-label=3D"filter by skill git" =
+class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold ro=
+unded-md other default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] trans=
+ition  svelte-1huzarr">GIT</span></button><button aria-label=3D"filter by s=
+kill github action" class=3D"mb-1"><span class=3D"inline-flex items-center =
 text-xs font-bold rounded-md other default px-2 py-1 ring-1 ring-inset hove=
-r:scale-[1.03] transition  svelte-116z7kx">LEAFLET</span></button><button a=
-ria-label=3D"filter by skill maven" class=3D"mb-1"><span class=3D"inline-fl=
-ex items-center text-xs font-bold rounded-md other default px-2 py-1 ring-1=
- ring-inset hover:scale-[1.03] transition  svelte-116z7kx">MAVEN</span></bu=
-tton><button aria-label=3D"filter by skill qt" class=3D"mb-1"><span class=
-=3D"inline-flex items-center text-xs font-bold rounded-md other default px-=
-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-116z7kx">QT<=
-/span></button><button aria-label=3D"filter by skill redux" class=3D"mb-1">=
+r:scale-[1.03] transition  svelte-1huzarr">GITHUB ACTION</span></button><bu=
+tton aria-label=3D"filter by skill kanban" class=3D"mb-1"><span class=3D"in=
+line-flex items-center text-xs font-bold rounded-md other default px-2 py-1=
+ ring-1 ring-inset hover:scale-[1.03] transition  svelte-1huzarr">KANBAN</s=
+pan></button><button aria-label=3D"filter by skill leaflet" class=3D"mb-1">=
 <span class=3D"inline-flex items-center text-xs font-bold rounded-md other =
 default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] transition  svelte-1=
-16z7kx">REDUX</span></button> </div></div> <div class=3D"modal-action"><for=
-m method=3D"dialog"><button class=3D"btn">Close</button></form></div></div>=
- <form method=3D"dialog" class=3D"modal-backdrop" data-svelte-h=3D"svelte-k=
-3gtt0"> <button>Close</button></form></dialog></div> <div class=3D"px-2 sel=
-f-start w-full" style=3D"grid-area: experience;"><div class=3D"sm:columns-2=
-"><ol class=3D"relative border-l-2 border-lime-200 dark:border-green-700 fl=
-ex flex-col flex-shrink"><li class=3D"ml-4  break-inside-avoid"><div class=
-=3D"absolute w-3 h-3 bg-gray-200 rounded-full mt-5 -left-[6.5px] border bor=
-der-white dark:border-gray-900 dark:bg-gray-700"></div> <div class=3D"card =
-dark:bg-neutral-800  rounded-sm hover:scale-[1.025] transition hover:cursor=
--pointer" aria-label=3D"open details" role=3D"button" tabindex=3D"0"><div c=
-lass=3D"card-body py-4"><time class=3D"text-sm font-normal text-accent self=
--start -mb-2">Sep 2020 -
+huzarr">LEAFLET</span></button><button aria-label=3D"filter by skill maven"=
+ class=3D"mb-1"><span class=3D"inline-flex items-center text-xs font-bold r=
+ounded-md other default px-2 py-1 ring-1 ring-inset hover:scale-[1.03] tran=
+sition  svelte-1huzarr">MAVEN</span></button><button aria-label=3D"filter b=
+y skill qt" class=3D"mb-1"><span class=3D"inline-flex items-center text-xs =
+font-bold rounded-md other default px-2 py-1 ring-1 ring-inset hover:scale-=
+[1.03] transition  svelte-1huzarr">QT</span></button><button aria-label=3D"=
+filter by skill redux" class=3D"mb-1"><span class=3D"inline-flex items-cent=
+er text-xs font-bold rounded-md other default px-2 py-1 ring-1 ring-inset h=
+over:scale-[1.03] transition  svelte-1huzarr">REDUX</span></button> </div><=
+/div> <div class=3D"modal-action"><form method=3D"dialog"><button class=3D"=
+btn">Close</button></form></div></div> <form method=3D"dialog" class=3D"mod=
+al-backdrop" data-svelte-h=3D"svelte-k3gtt0"> <button>Close</button></form>=
+</dialog></div> <div class=3D"px-2 self-start w-full" style=3D"grid-area: e=
+xperience;"><div class=3D"sm:columns-2"><ol class=3D"relative border-l-2 bo=
+rder-lime-200 dark:border-green-700 flex flex-col flex-shrink"><li class=3D=
+"ml-4  break-inside-avoid"><div class=3D"absolute w-3 h-3 bg-gray-200 round=
+ed-full mt-5 -left-[6.5px] border border-white dark:border-gray-900 dark:bg=
+-gray-700"></div> <div class=3D"card dark:bg-neutral-800  rounded-sm hover:=
+scale-[1.025] transition hover:cursor-pointer" aria-label=3D"open details" =
+role=3D"button" tabindex=3D"0"><div class=3D"card-body py-4"><time class=3D=
+"text-sm font-normal text-accent self-start -mb-2">Sep 2020 -
 							Jul 2030</time> <h3 class=3D"font-bold text-xl capitalize card-title=
  text-left">Voc On Steroid - Entrepreneur</h3> <div class=3D"flex gap-2 ite=
 ms-center"><p class=3D"text-sm font-normal">Creation of an application to e=
@@ -445,58 +454,58 @@ d-column"><h4 class=3D"font-semibold mr-2">Architecture</h4> <p class=3D"mb=
 -2 text-sm font-normal">Creation of the project's architecture.</p> <div cl=
 ass=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-center text-x=
 s font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:ske=
-w-y-2 transition  svelte-116z7kx">MICROSERVICES</span><span class=3D"inline=
+w-y-2 transition  svelte-1huzarr">MICROSERVICES</span><span class=3D"inline=
 -flex items-center text-xs font-bold rounded-md system default px-2 py-1 ri=
-ng-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">GCP</span><span =
+ng-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">GCP</span><span =
 class=3D"inline-flex items-center text-xs font-bold rounded-md system defau=
-lt px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">B=
+lt px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">B=
 ARE METAL</span></div> </li><div class=3D"divider"></div> <li class=3D"mb-2=
  break-inside-avoid-column"><h4 class=3D"font-semibold mr-2">Development</h=
 4> <p class=3D"mb-2 text-sm font-normal">Development of the entire applicat=
 ion.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex ite=
 ms-center text-xs font-bold rounded-md backend default px-2 py-1 ring-1 rin=
-g-inset hover:skew-y-2 transition  svelte-116z7kx">NODEJS</span><span class=
+g-inset hover:skew-y-2 transition  svelte-1huzarr">NODEJS</span><span class=
 =3D"inline-flex items-center text-xs font-bold rounded-md backend default p=
-x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">NESTJ=
+x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">NESTJ=
 S</span><span class=3D"inline-flex items-center text-xs font-bold rounded-m=
 d backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  sv=
-elte-116z7kx">GOLANG</span><span class=3D"inline-flex items-center text-xs =
+elte-1huzarr">GOLANG</span><span class=3D"inline-flex items-center text-xs =
 font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:ske=
-w-y-2 transition  svelte-116z7kx">SVELTEKIT</span><span class=3D"inline-fle=
+w-y-2 transition  svelte-1huzarr">SVELTEKIT</span><span class=3D"inline-fle=
 x items-center text-xs font-bold rounded-md data default px-2 py-1 ring-1 r=
-ing-inset hover:skew-y-2 transition  svelte-116z7kx">MONGODB</span><span cl=
+ing-inset hover:skew-y-2 transition  svelte-1huzarr">MONGODB</span><span cl=
 ass=3D"inline-flex items-center text-xs font-bold rounded-md data default p=
-x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">MYSQL=
+x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">MYSQL=
 </span><span class=3D"inline-flex items-center text-xs font-bold rounded-md=
  data default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte=
--116z7kx">ELK</span></div> </li><div class=3D"divider"></div> <li class=3D"=
+-1huzarr">ELK</span></div> </li><div class=3D"divider"></div> <li class=3D"=
 mb-2 break-inside-avoid-column"><h4 class=3D"font-semibold mr-2">DevOps</h4=
 > <p class=3D"mb-2 text-sm font-normal">Responsibility for application depl=
 oyment.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex =
 items-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 r=
-ing-inset hover:skew-y-2 transition  svelte-116z7kx">DOCKER</span><span cla=
+ing-inset hover:skew-y-2 transition  svelte-1huzarr">DOCKER</span><span cla=
 ss=3D"inline-flex items-center text-xs font-bold rounded-md devops default =
-px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">KUBE=
+px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">KUBE=
 RNETES</span><span class=3D"inline-flex items-center text-xs font-bold roun=
 ded-md devops default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition=
-  svelte-116z7kx">GITHUB ACTION</span><span class=3D"inline-flex items-cent=
+  svelte-1huzarr">GITHUB ACTION</span><span class=3D"inline-flex items-cent=
 er text-xs font-bold rounded-md system default px-2 py-1 ring-1 ring-inset =
-hover:skew-y-2 transition  svelte-116z7kx">LINUX</span><span class=3D"inlin=
+hover:skew-y-2 transition  svelte-1huzarr">LINUX</span><span class=3D"inlin=
 e-flex items-center text-xs font-bold rounded-md devops default px-2 py-1 r=
-ing-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">TLS</span><span=
+ing-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">TLS</span><span=
  class=3D"inline-flex items-center text-xs font-bold rounded-md devops defa=
-ult px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">=
+ult px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">=
 KONG</span><span class=3D"inline-flex items-center text-xs font-bold rounde=
 d-md devops default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  =
-svelte-116z7kx">TRAEFIK</span></div> </li><div class=3D"divider"></div> <li=
+svelte-1huzarr">TRAEFIK</span></div> </li><div class=3D"divider"></div> <li=
  class=3D"mb-2 break-inside-avoid-column"><h4 class=3D"font-semibold mr-2">=
 Management</h4> <p class=3D"mb-2 text-sm font-normal">In charge of managing=
  the team (1 person). Management of resources, prioritization of tasks.</p>=
  <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-cente=
 r text-xs font-bold rounded-md other default px-2 py-1 ring-1 ring-inset ho=
-ver:skew-y-2 transition  svelte-116z7kx">GIT</span><span class=3D"inline-fl=
+ver:skew-y-2 transition  svelte-1huzarr">GIT</span><span class=3D"inline-fl=
 ex items-center text-xs font-bold rounded-md other default px-2 py-1 ring-1=
- ring-inset hover:skew-y-2 transition  svelte-116z7kx">KANBAN</span></div> =
+ ring-inset hover:skew-y-2 transition  svelte-1huzarr">KANBAN</span></div> =
 </li></ul></div></div></li> <dialog id=3D"Voc On Steroid" class=3D"modal mo=
 dal-bottom sm:modal-middle"><form method=3D"dialog" class=3D"modal-box max-=
 h-[70vh]"><div class=3D"sticky w-[14%] ml-auto -mb-8 -mr-4 top-0" data-svel=
@@ -507,57 +516,57 @@ ld text-lg text-center w-[85%]">Missions : Voc On Steroid</h3> <ul class=3D=
 re</h4> <p class=3D"mb-2 text-sm font-normal">Creation of the project's arc=
 hitecture.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-fl=
 ex items-center text-xs font-bold rounded-md devops default px-2 py-1 ring-=
-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">MICROSERVICES</span=
+1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">MICROSERVICES</span=
 ><span class=3D"inline-flex items-center text-xs font-bold rounded-md syste=
-m default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116=
-z7kx">GCP</span><span class=3D"inline-flex items-center text-xs font-bold r=
+m default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1hu=
+zarr">GCP</span><span class=3D"inline-flex items-center text-xs font-bold r=
 ounded-md system default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transit=
-ion  svelte-116z7kx">BARE METAL</span></div> </li><div class=3D"divider"></=
+ion  svelte-1huzarr">BARE METAL</span></div> </li><div class=3D"divider"></=
 div> <li class=3D"mb-2"><h4 class=3D"font-semibold mr-2">Development</h4> <=
 p class=3D"mb-2 text-sm font-normal">Development of the entire application.=
 </p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-c=
 enter text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-in=
-set hover:skew-y-2 transition  svelte-116z7kx">NODEJS</span><span class=3D"=
+set hover:skew-y-2 transition  svelte-1huzarr">NODEJS</span><span class=3D"=
 inline-flex items-center text-xs font-bold rounded-md backend default px-2 =
-py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">NESTJS</s=
+py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">NESTJS</s=
 pan><span class=3D"inline-flex items-center text-xs font-bold rounded-md ba=
 ckend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte=
--116z7kx">GOLANG</span><span class=3D"inline-flex items-center text-xs font=
+-1huzarr">GOLANG</span><span class=3D"inline-flex items-center text-xs font=
 -bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:skew-y-=
-2 transition  svelte-116z7kx">SVELTEKIT</span><span class=3D"inline-flex it=
+2 transition  svelte-1huzarr">SVELTEKIT</span><span class=3D"inline-flex it=
 ems-center text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-=
-inset hover:skew-y-2 transition  svelte-116z7kx">MONGODB</span><span class=
+inset hover:skew-y-2 transition  svelte-1huzarr">MONGODB</span><span class=
 =3D"inline-flex items-center text-xs font-bold rounded-md data default px-2=
- py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">MYSQL</s=
+ py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">MYSQL</s=
 pan><span class=3D"inline-flex items-center text-xs font-bold rounded-md da=
-ta default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-11=
-6z7kx">ELK</span></div> </li><div class=3D"divider"></div> <li class=3D"mb-=
+ta default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1h=
+uzarr">ELK</span></div> </li><div class=3D"divider"></div> <li class=3D"mb-=
 2"><h4 class=3D"font-semibold mr-2">DevOps</h4> <p class=3D"mb-2 text-sm fo=
 nt-normal">Responsibility for application deployment.</p> <div class=3D"fle=
 x flex-wrap gap-2"><span class=3D"inline-flex items-center text-xs font-bol=
 d rounded-md devops default px-2 py-1 ring-1 ring-inset hover:skew-y-2 tran=
-sition  svelte-116z7kx">DOCKER</span><span class=3D"inline-flex items-cente=
+sition  svelte-1huzarr">DOCKER</span><span class=3D"inline-flex items-cente=
 r text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset h=
-over:skew-y-2 transition  svelte-116z7kx">KUBERNETES</span><span class=3D"i=
+over:skew-y-2 transition  svelte-1huzarr">KUBERNETES</span><span class=3D"i=
 nline-flex items-center text-xs font-bold rounded-md devops default px-2 py=
--1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">GITHUB ACTI=
+-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">GITHUB ACTI=
 ON</span><span class=3D"inline-flex items-center text-xs font-bold rounded-=
 md system default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  sv=
-elte-116z7kx">LINUX</span><span class=3D"inline-flex items-center text-xs f=
+elte-1huzarr">LINUX</span><span class=3D"inline-flex items-center text-xs f=
 ont-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:skew-y=
--2 transition  svelte-116z7kx">TLS</span><span class=3D"inline-flex items-c=
+-2 transition  svelte-1huzarr">TLS</span><span class=3D"inline-flex items-c=
 enter text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-ins=
-et hover:skew-y-2 transition  svelte-116z7kx">KONG</span><span class=3D"inl=
+et hover:skew-y-2 transition  svelte-1huzarr">KONG</span><span class=3D"inl=
 ine-flex items-center text-xs font-bold rounded-md devops default px-2 py-1=
- ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">TRAEFIK</span=
+ ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">TRAEFIK</span=
 ></div> </li><div class=3D"divider"></div> <li class=3D"mb-2"><h4 class=3D"=
 font-semibold mr-2">Management</h4> <p class=3D"mb-2 text-sm font-normal">I=
 n charge of managing the team (1 person). Management of resources, prioriti=
 zation of tasks.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inl=
 ine-flex items-center text-xs font-bold rounded-md other default px-2 py-1 =
-ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">GIT</span><spa=
+ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">GIT</span><spa=
 n class=3D"inline-flex items-center text-xs font-bold rounded-md other defa=
-ult px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">=
+ult px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">=
 KANBAN</span></div> </li></ul></form> <form method=3D"dialog" class=3D"moda=
 l-backdrop" data-svelte-h=3D"svelte-1d3wagh"><button aria-label=3D"close mo=
 dal">close</button></form> </dialog><li class=3D"ml-4 mt-2 break-inside-avo=
@@ -566,7 +575,66 @@ px] border border-white dark:border-gray-900 dark:bg-gray-700"></div> <div =
 class=3D"card dark:bg-neutral-800  rounded-sm hover:scale-[1.025] transitio=
 n hover:cursor-pointer" aria-label=3D"open details" role=3D"button" tabinde=
 x=3D"0"><div class=3D"card-body py-4"><time class=3D"text-sm font-normal te=
-xt-accent self-start -mb-2">Sep 2021 -
+xt-accent self-start -mb-2">Jul 2022 -
+							Jul 2030</time> <h3 class=3D"font-bold text-xl capitalize card-title=
+ text-left">Go-AI-cli - Project Manager</h3> <div class=3D"flex gap-2 items=
+-center"><p class=3D"text-sm font-normal">Created a CLI tool enabling seaml=
+ess interaction with AI models for text, TTS, STT, image generation, and we=
+b scraping.  <a href=3D"https://github.com/MohammadBnei/go-ai-cli" class=3D=
+"link ml-4">GitHub</a></p> </div> <ul class=3D"ml-4 mt-4"> <li class=3D"mb-=
+2 break-inside-avoid-column"><h4 class=3D"font-semibold mr-2">Development</=
+h4> <p class=3D"mb-2 text-sm font-normal">Development of the projet.</p> <d=
+iv class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-center t=
+ext-xs font-bold rounded-md system default px-2 py-1 ring-1 ring-inset hove=
+r:skew-y-2 transition  svelte-1huzarr">CLI</span><span class=3D"inline-flex=
+ items-center text-xs font-bold rounded-md backend default px-2 py-1 ring-1=
+ ring-inset hover:skew-y-2 transition  svelte-1huzarr">GOLANG</span><span c=
+lass=3D"inline-flex items-center text-xs font-bold rounded-md data default =
+px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">LANG=
+CHAIN</span><span class=3D"inline-flex items-center text-xs font-bold round=
+ed-md data default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  s=
+velte-1huzarr">AI</span></div> </li><div class=3D"divider"></div> <li class=
+=3D"mb-2 break-inside-avoid-column"><h4 class=3D"font-semibold mr-2">CI/CD<=
+/h4> <p class=3D"mb-2 text-sm font-normal">Creation of a CI/CD pipeline wit=
+h goreleaser.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline=
+-flex items-center text-xs font-bold rounded-md other default px-2 py-1 rin=
+g-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">GITHUB ACTION</sp=
+an><span class=3D"inline-flex items-center text-xs font-bold rounded-md bac=
+kend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-=
+1huzarr">GOLANG</span></div> </li></ul></div></div></li> <dialog id=3D"Go-A=
+I-cli" class=3D"modal modal-bottom sm:modal-middle"><form method=3D"dialog"=
+ class=3D"modal-box max-h-[70vh]"><div class=3D"sticky w-[14%] ml-auto -mb-=
+8 -mr-4 top-0" data-svelte-h=3D"svelte-1rf2aif"><button class=3D"btn btn-sm=
+ btn-circle bg-opacity-60" aria-label=3D"close modal">=E2=9C=95</button></d=
+iv> <h3 class=3D"font-bold text-lg text-center w-[85%]">Missions : Go-AI-cl=
+i</h3> <ul class=3D"ml-4 mt-4"> <li class=3D"mb-2"><h4 class=3D"font-semibo=
+ld mr-2">Development</h4> <p class=3D"mb-2 text-sm font-normal">Development=
+ of the projet.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inli=
+ne-flex items-center text-xs font-bold rounded-md system default px-2 py-1 =
+ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">CLI</span><spa=
+n class=3D"inline-flex items-center text-xs font-bold rounded-md backend de=
+fault px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr=
+">GOLANG</span><span class=3D"inline-flex items-center text-xs font-bold ro=
+unded-md data default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition=
+  svelte-1huzarr">LANGCHAIN</span><span class=3D"inline-flex items-center t=
+ext-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:=
+skew-y-2 transition  svelte-1huzarr">AI</span></div> </li><div class=3D"div=
+ider"></div> <li class=3D"mb-2"><h4 class=3D"font-semibold mr-2">CI/CD</h4>=
+ <p class=3D"mb-2 text-sm font-normal">Creation of a CI/CD pipeline with go=
+releaser.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-fle=
+x items-center text-xs font-bold rounded-md other default px-2 py-1 ring-1 =
+ring-inset hover:skew-y-2 transition  svelte-1huzarr">GITHUB ACTION</span><=
+span class=3D"inline-flex items-center text-xs font-bold rounded-md backend=
+ default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huz=
+arr">GOLANG</span></div> </li></ul></form> <form method=3D"dialog" class=3D=
+"modal-backdrop" data-svelte-h=3D"svelte-1d3wagh"><button aria-label=3D"clo=
+se modal">close</button></form> </dialog><li class=3D"ml-4 mt-2 break-insid=
+e-avoid"><div class=3D"absolute w-3 h-3 bg-gray-200 rounded-full mt-5 -left=
+-[6.5px] border border-white dark:border-gray-900 dark:bg-gray-700"></div> =
+<div class=3D"card dark:bg-neutral-800  rounded-sm hover:scale-[1.025] tran=
+sition hover:cursor-pointer" aria-label=3D"open details" role=3D"button" ta=
+bindex=3D"0"><div class=3D"card-body py-4"><time class=3D"text-sm font-norm=
+al text-accent self-start -mb-2">Sep 2021 -
 							Feb 2024</time> <h3 class=3D"font-bold text-xl capitalize card-title=
  text-left">ESGI (Paris &amp; Lyon) - NextU - Lecturer</h3> <div class=3D"f=
 lex gap-2 items-center"><p class=3D"text-sm font-normal">Courses on web tec=
@@ -577,76 +645,76 @@ rmal">Introduction to the world of microservices, introduction to the techn=
 ologies used, and to the architecture of microservices.</p> <div class=3D"f=
 lex flex-wrap gap-2"><span class=3D"inline-flex items-center text-xs font-b=
 old rounded-md backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 t=
-ransition  svelte-116z7kx">NESTJS</span><span class=3D"inline-flex items-ce=
+ransition  svelte-1huzarr">NESTJS</span><span class=3D"inline-flex items-ce=
 nter text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-ins=
-et hover:skew-y-2 transition  svelte-116z7kx">GOLANG</span><span class=3D"i=
+et hover:skew-y-2 transition  svelte-1huzarr">GOLANG</span><span class=3D"i=
 nline-flex items-center text-xs font-bold rounded-md devops default px-2 py=
--1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">GRPC</span>=
+-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">GRPC</span>=
 <span class=3D"inline-flex items-center text-xs font-bold rounded-md devops=
- default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z=
-7kx">REST</span><span class=3D"inline-flex items-center text-xs font-bold r=
+ default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huz=
+arr">REST</span><span class=3D"inline-flex items-center text-xs font-bold r=
 ounded-md devops default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transit=
-ion  svelte-116z7kx">ARCHITECTURE</span><span class=3D"inline-flex items-ce=
+ion  svelte-1huzarr">ARCHITECTURE</span><span class=3D"inline-flex items-ce=
 nter text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inse=
-t hover:skew-y-2 transition  svelte-116z7kx">MICROSERVICES</span><span clas=
+t hover:skew-y-2 transition  svelte-1huzarr">MICROSERVICES</span><span clas=
 s=3D"inline-flex items-center text-xs font-bold rounded-md devops default p=
-x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">KUBER=
+x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">KUBER=
 NETES</span><span class=3D"inline-flex items-center text-xs font-bold round=
 ed-md devops default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition =
- svelte-116z7kx">DOCKER</span><span class=3D"inline-flex items-center text-=
+ svelte-1huzarr">DOCKER</span><span class=3D"inline-flex items-center text-=
 xs font-bold rounded-md system default px-2 py-1 ring-1 ring-inset hover:sk=
-ew-y-2 transition  svelte-116z7kx">GCP</span></div> </li><div class=3D"divi=
+ew-y-2 transition  svelte-1huzarr">GCP</span></div> </li><div class=3D"divi=
 der"></div> <li class=3D"mb-2 break-inside-avoid-column"><h4 class=3D"font-=
 semibold mr-2">CI/CD Solutions</h4> <p class=3D"mb-2 text-sm font-normal">P=
 resentation of CI/CD solutions, and version management tools.</p> <div clas=
 s=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-center text-xs =
 font-bold rounded-md other default px-2 py-1 ring-1 ring-inset hover:skew-y=
--2 transition  svelte-116z7kx">GIT</span><span class=3D"inline-flex items-c=
+-2 transition  svelte-1huzarr">GIT</span><span class=3D"inline-flex items-c=
 enter text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-ins=
-et hover:skew-y-2 transition  svelte-116z7kx">JENKINS</span><span class=3D"=
+et hover:skew-y-2 transition  svelte-1huzarr">JENKINS</span><span class=3D"=
 inline-flex items-center text-xs font-bold rounded-md devops default px-2 p=
-y-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">GITHUB ACT=
+y-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">GITHUB ACT=
 ION</span><span class=3D"inline-flex items-center text-xs font-bold rounded=
 -md devops default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  s=
-velte-116z7kx">CIRCLECI</span><span class=3D"inline-flex items-center text-=
+velte-1huzarr">CIRCLECI</span><span class=3D"inline-flex items-center text-=
 xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:sk=
-ew-y-2 transition  svelte-116z7kx">DOCKER</span><span class=3D"inline-flex =
+ew-y-2 transition  svelte-1huzarr">DOCKER</span><span class=3D"inline-flex =
 items-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 r=
-ing-inset hover:skew-y-2 transition  svelte-116z7kx">ANSIBLE</span><span cl=
+ing-inset hover:skew-y-2 transition  svelte-1huzarr">ANSIBLE</span><span cl=
 ass=3D"inline-flex items-center text-xs font-bold rounded-md system default=
- px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">GCP=
+ px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">GCP=
 </span></div> </li><div class=3D"divider"></div> <li class=3D"mb-2 break-in=
 side-avoid-column"><h4 class=3D"font-semibold mr-2">Golang</h4> <p class=3D=
 "mb-2 text-sm font-normal">Introduction to the Golang programming language.=
 </p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-c=
 enter text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-in=
-set hover:skew-y-2 transition  svelte-116z7kx">GOLANG</span></div> </li><di=
+set hover:skew-y-2 transition  svelte-1huzarr">GOLANG</span></div> </li><di=
 v class=3D"divider"></div> <li class=3D"mb-2 break-inside-avoid-column"><h4=
  class=3D"font-semibold mr-2">React</h4> <p class=3D"mb-2 text-sm font-norm=
 al">Introduction to React programming language.</p> <div class=3D"flex flex=
 -wrap gap-2"><span class=3D"inline-flex items-center text-xs font-bold roun=
 ded-md frontend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transiti=
-on  svelte-116z7kx">REACTJS</span></div> </li><div class=3D"divider"></div>=
+on  svelte-1huzarr">REACTJS</span></div> </li><div class=3D"divider"></div>=
  <li class=3D"mb-2 break-inside-avoid-column"><h4 class=3D"font-semibold mr=
 -2">AI Integration</h4> <p class=3D"mb-2 text-sm font-normal">Integration o=
 f artificial intelligence model via API. Construction of vector space, conn=
 ection to search engines to create specific AI.</p> <div class=3D"flex flex=
 -wrap gap-2"><span class=3D"inline-flex items-center text-xs font-bold roun=
 ded-md backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transitio=
-n  svelte-116z7kx">PYTHON</span></div> </li><div class=3D"divider"></div> <=
+n  svelte-1huzarr">PYTHON</span></div> </li><div class=3D"divider"></div> <=
 li class=3D"mb-2 break-inside-avoid-column"><h4 class=3D"font-semibold mr-2=
 ">Web realtime</h4> <p class=3D"mb-2 text-sm font-normal">Presentation of d=
 ifferent technologies enabling real-time for the web. Implementation of rea=
 l-time projects.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inl=
 ine-flex items-center text-xs font-bold rounded-md data default px-2 py-1 r=
-ing-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">REDIS</span><sp=
+ing-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">REDIS</span><sp=
 an class=3D"inline-flex items-center text-xs font-bold rounded-md backend d=
-efault px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7k=
-x">WEBSOCKET</span><span class=3D"inline-flex items-center text-xs font-bol=
+efault px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzar=
+r">WEBSOCKET</span><span class=3D"inline-flex items-center text-xs font-bol=
 d rounded-md backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 tra=
-nsition  svelte-116z7kx">SOCKET.IO</span><span class=3D"inline-flex items-c=
+nsition  svelte-1huzarr">SOCKET.IO</span><span class=3D"inline-flex items-c=
 enter text-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-i=
-nset hover:skew-y-2 transition  svelte-116z7kx">WEBRTC</span></div> </li><d=
+nset hover:skew-y-2 transition  svelte-1huzarr">WEBRTC</span></div> </li><d=
 iv class=3D"divider"></div> <li class=3D"mb-2 break-inside-avoid-column"><h=
 4 class=3D"font-semibold mr-2">Other</h4> <p class=3D"mb-2 text-sm font-nor=
 mal">Participation in the organization of joint exams between the subjects,=
@@ -664,75 +732,75 @@ ervices</h4> <p class=3D"mb-2 text-sm font-normal">Introduction to the worl=
 d of microservices, introduction to the technologies used, and to the archi=
 tecture of microservices.</p> <div class=3D"flex flex-wrap gap-2"><span cla=
 ss=3D"inline-flex items-center text-xs font-bold rounded-md backend default=
- px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">NES=
+ px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">NES=
 TJS</span><span class=3D"inline-flex items-center text-xs font-bold rounded=
 -md backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  =
-svelte-116z7kx">GOLANG</span><span class=3D"inline-flex items-center text-x=
+svelte-1huzarr">GOLANG</span><span class=3D"inline-flex items-center text-x=
 s font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:ske=
-w-y-2 transition  svelte-116z7kx">GRPC</span><span class=3D"inline-flex ite=
+w-y-2 transition  svelte-1huzarr">GRPC</span><span class=3D"inline-flex ite=
 ms-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring=
--inset hover:skew-y-2 transition  svelte-116z7kx">REST</span><span class=3D=
+-inset hover:skew-y-2 transition  svelte-1huzarr">REST</span><span class=3D=
 "inline-flex items-center text-xs font-bold rounded-md devops default px-2 =
-py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">ARCHITECT=
+py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">ARCHITECT=
 URE</span><span class=3D"inline-flex items-center text-xs font-bold rounded=
 -md devops default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  s=
-velte-116z7kx">MICROSERVICES</span><span class=3D"inline-flex items-center =
+velte-1huzarr">MICROSERVICES</span><span class=3D"inline-flex items-center =
 text-xs font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hov=
-er:skew-y-2 transition  svelte-116z7kx">KUBERNETES</span><span class=3D"inl=
+er:skew-y-2 transition  svelte-1huzarr">KUBERNETES</span><span class=3D"inl=
 ine-flex items-center text-xs font-bold rounded-md devops default px-2 py-1=
- ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">DOCKER</span>=
+ ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">DOCKER</span>=
 <span class=3D"inline-flex items-center text-xs font-bold rounded-md system=
- default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z=
-7kx">GCP</span></div> </li><div class=3D"divider"></div> <li class=3D"mb-2"=
+ default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huz=
+arr">GCP</span></div> </li><div class=3D"divider"></div> <li class=3D"mb-2"=
 ><h4 class=3D"font-semibold mr-2">CI/CD Solutions</h4> <p class=3D"mb-2 tex=
 t-sm font-normal">Presentation of CI/CD solutions, and version management t=
 ools.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex it=
 ems-center text-xs font-bold rounded-md other default px-2 py-1 ring-1 ring=
--inset hover:skew-y-2 transition  svelte-116z7kx">GIT</span><span class=3D"=
+-inset hover:skew-y-2 transition  svelte-1huzarr">GIT</span><span class=3D"=
 inline-flex items-center text-xs font-bold rounded-md devops default px-2 p=
-y-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">JENKINS</s=
+y-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">JENKINS</s=
 pan><span class=3D"inline-flex items-center text-xs font-bold rounded-md de=
 vops default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-=
-116z7kx">GITHUB ACTION</span><span class=3D"inline-flex items-center text-x=
+1huzarr">GITHUB ACTION</span><span class=3D"inline-flex items-center text-x=
 s font-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:ske=
-w-y-2 transition  svelte-116z7kx">CIRCLECI</span><span class=3D"inline-flex=
+w-y-2 transition  svelte-1huzarr">CIRCLECI</span><span class=3D"inline-flex=
  items-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 =
-ring-inset hover:skew-y-2 transition  svelte-116z7kx">DOCKER</span><span cl=
+ring-inset hover:skew-y-2 transition  svelte-1huzarr">DOCKER</span><span cl=
 ass=3D"inline-flex items-center text-xs font-bold rounded-md devops default=
- px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">ANS=
+ px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">ANS=
 IBLE</span><span class=3D"inline-flex items-center text-xs font-bold rounde=
 d-md system default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  =
-svelte-116z7kx">GCP</span></div> </li><div class=3D"divider"></div> <li cla=
+svelte-1huzarr">GCP</span></div> </li><div class=3D"divider"></div> <li cla=
 ss=3D"mb-2"><h4 class=3D"font-semibold mr-2">Golang</h4> <p class=3D"mb-2 t=
 ext-sm font-normal">Introduction to the Golang programming language.</p> <d=
 iv class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-center t=
 ext-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hov=
-er:skew-y-2 transition  svelte-116z7kx">GOLANG</span></div> </li><div class=
+er:skew-y-2 transition  svelte-1huzarr">GOLANG</span></div> </li><div class=
 =3D"divider"></div> <li class=3D"mb-2"><h4 class=3D"font-semibold mr-2">Rea=
 ct</h4> <p class=3D"mb-2 text-sm font-normal">Introduction to React program=
 ming language.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inlin=
 e-flex items-center text-xs font-bold rounded-md frontend default px-2 py-1=
- ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">REACTJS</span=
+ ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">REACTJS</span=
 ></div> </li><div class=3D"divider"></div> <li class=3D"mb-2"><h4 class=3D"=
 font-semibold mr-2">AI Integration</h4> <p class=3D"mb-2 text-sm font-norma=
 l">Integration of artificial intelligence model via API. Construction of ve=
 ctor space, connection to search engines to create specific AI.</p> <div cl=
 ass=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-center text-x=
 s font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:sk=
-ew-y-2 transition  svelte-116z7kx">PYTHON</span></div> </li><div class=3D"d=
+ew-y-2 transition  svelte-1huzarr">PYTHON</span></div> </li><div class=3D"d=
 ivider"></div> <li class=3D"mb-2"><h4 class=3D"font-semibold mr-2">Web real=
 time</h4> <p class=3D"mb-2 text-sm font-normal">Presentation of different t=
 echnologies enabling real-time for the web. Implementation of real-time pro=
 jects.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex i=
 tems-center text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring=
--inset hover:skew-y-2 transition  svelte-116z7kx">REDIS</span><span class=
+-inset hover:skew-y-2 transition  svelte-1huzarr">REDIS</span><span class=
 =3D"inline-flex items-center text-xs font-bold rounded-md backend default p=
-x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">WEBSO=
+x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">WEBSO=
 CKET</span><span class=3D"inline-flex items-center text-xs font-bold rounde=
 d-md backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition =
- svelte-116z7kx">SOCKET.IO</span><span class=3D"inline-flex items-center te=
+ svelte-1huzarr">SOCKET.IO</span><span class=3D"inline-flex items-center te=
 xt-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hov=
-er:skew-y-2 transition  svelte-116z7kx">WEBRTC</span></div> </li><div class=
+er:skew-y-2 transition  svelte-1huzarr">WEBRTC</span></div> </li><div class=
 =3D"divider"></div> <li class=3D"mb-2"><h4 class=3D"font-semibold mr-2">Oth=
 er</h4> <p class=3D"mb-2 text-sm font-normal">Participation in the organiza=
 tion of joint exams between the subjects, accompanying students in the desi=
@@ -756,39 +824,39 @@ mibold mr-2">Webhook</h4> <p class=3D"mb-2 text-sm font-normal">Development=
  of a webhook plugin to retrieve chatbot data in real time (or in batch) on=
  a client server.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"in=
 line-flex items-center text-xs font-bold rounded-md backend default px-2 py=
--1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">NODEJS</spa=
+-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">NODEJS</spa=
 n><span class=3D"inline-flex items-center text-xs font-bold rounded-md back=
 end default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1=
-16z7kx">HAPI</span><span class=3D"inline-flex items-center text-xs font-bol=
+huzarr">HAPI</span><span class=3D"inline-flex items-center text-xs font-bol=
 d rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 tr=
-ansition  svelte-116z7kx">REACTJS</span><span class=3D"inline-flex items-ce=
+ansition  svelte-1huzarr">REACTJS</span><span class=3D"inline-flex items-ce=
 nter text-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset =
-hover:skew-y-2 transition  svelte-116z7kx">MONGODB</span></div> </li><div c=
+hover:skew-y-2 transition  svelte-1huzarr">MONGODB</span></div> </li><div c=
 lass=3D"divider"></div> <li class=3D"mb-2 break-inside-avoid-column"><h4 cl=
 ass=3D"font-semibold mr-2">Visual</h4> <p class=3D"mb-2 text-sm font-normal=
 ">Bug fix and visual improvement on the entire site (WYSIWYG &amp; dashboar=
 d).</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex item=
 s-center text-xs font-bold rounded-md frontend default px-2 py-1 ring-1 rin=
-g-inset hover:skew-y-2 transition  svelte-116z7kx">REACTJS</span></div> </l=
+g-inset hover:skew-y-2 transition  svelte-1huzarr">REACTJS</span></div> </l=
 i><div class=3D"divider"></div> <li class=3D"mb-2 break-inside-avoid-column=
 "><h4 class=3D"font-semibold mr-2">Leaderboard</h4> <p class=3D"mb-2 text-s=
 m font-normal">Development of a real-time leaderboard for contests.</p> <di=
 v class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-center te=
 xt-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hove=
-r:skew-y-2 transition  svelte-116z7kx">NODEJS</span><span class=3D"inline-f=
+r:skew-y-2 transition  svelte-1huzarr">NODEJS</span><span class=3D"inline-f=
 lex items-center text-xs font-bold rounded-md backend default px-2 py-1 rin=
-g-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">HAPI</span><span =
+g-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">HAPI</span><span =
 class=3D"inline-flex items-center text-xs font-bold rounded-md frontend def=
-ault px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx"=
+ault px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr"=
 >REACTJS</span><span class=3D"inline-flex items-center text-xs font-bold ro=
 unded-md data default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition=
-  svelte-116z7kx">REDIS</span></div> </li><div class=3D"divider"></div> <li=
+  svelte-1huzarr">REDIS</span></div> </li><div class=3D"divider"></div> <li=
  class=3D"mb-2 break-inside-avoid-column"><h4 class=3D"font-semibold mr-2">=
 React Update</h4> <p class=3D"mb-2 text-sm font-normal">Conversion of all c=
 omponents written as classes to function type components.</p> <div class=3D=
 "flex flex-wrap gap-2"><span class=3D"inline-flex items-center text-xs font=
 -bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:skew-y-=
-2 transition  svelte-116z7kx">REACTJS</span></div> </li></ul></div></div></=
+2 transition  svelte-1huzarr">REACTJS</span></div> </li></ul></div></div></=
 li> <dialog id=3D"Fastory" class=3D"modal modal-bottom sm:modal-middle"><fo=
 rm method=3D"dialog" class=3D"modal-box max-h-[70vh]"><div class=3D"sticky =
 w-[14%] ml-auto -mb-8 -mr-4 top-0" data-svelte-h=3D"svelte-1rf2aif"><button=
@@ -799,38 +867,38 @@ lass=3D"font-semibold mr-2">Webhook</h4> <p class=3D"mb-2 text-sm font-norm=
 al">Development of a webhook plugin to retrieve chatbot data in real time (=
 or in batch) on a client server.</p> <div class=3D"flex flex-wrap gap-2"><s=
 pan class=3D"inline-flex items-center text-xs font-bold rounded-md backend =
-default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7=
-kx">NODEJS</span><span class=3D"inline-flex items-center text-xs font-bold =
+default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huza=
+rr">NODEJS</span><span class=3D"inline-flex items-center text-xs font-bold =
 rounded-md backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 trans=
-ition  svelte-116z7kx">HAPI</span><span class=3D"inline-flex items-center t=
+ition  svelte-1huzarr">HAPI</span><span class=3D"inline-flex items-center t=
 ext-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset ho=
-ver:skew-y-2 transition  svelte-116z7kx">REACTJS</span><span class=3D"inlin=
+ver:skew-y-2 transition  svelte-1huzarr">REACTJS</span><span class=3D"inlin=
 e-flex items-center text-xs font-bold rounded-md data default px-2 py-1 rin=
-g-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">MONGODB</span></d=
+g-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">MONGODB</span></d=
 iv> </li><div class=3D"divider"></div> <li class=3D"mb-2"><h4 class=3D"font=
 -semibold mr-2">Visual</h4> <p class=3D"mb-2 text-sm font-normal">Bug fix a=
 nd visual improvement on the entire site (WYSIWYG &amp; dashboard).</p> <di=
 v class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-center te=
 xt-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hov=
-er:skew-y-2 transition  svelte-116z7kx">REACTJS</span></div> </li><div clas=
+er:skew-y-2 transition  svelte-1huzarr">REACTJS</span></div> </li><div clas=
 s=3D"divider"></div> <li class=3D"mb-2"><h4 class=3D"font-semibold mr-2">Le=
 aderboard</h4> <p class=3D"mb-2 text-sm font-normal">Development of a real-=
 time leaderboard for contests.</p> <div class=3D"flex flex-wrap gap-2"><spa=
 n class=3D"inline-flex items-center text-xs font-bold rounded-md backend de=
-fault px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx=
+fault px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr=
 ">NODEJS</span><span class=3D"inline-flex items-center text-xs font-bold ro=
 unded-md backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transit=
-ion  svelte-116z7kx">HAPI</span><span class=3D"inline-flex items-center tex=
+ion  svelte-1huzarr">HAPI</span><span class=3D"inline-flex items-center tex=
 t-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hove=
-r:skew-y-2 transition  svelte-116z7kx">REACTJS</span><span class=3D"inline-=
+r:skew-y-2 transition  svelte-1huzarr">REACTJS</span><span class=3D"inline-=
 flex items-center text-xs font-bold rounded-md data default px-2 py-1 ring-=
-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">REDIS</span></div> =
+1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">REDIS</span></div> =
 </li><div class=3D"divider"></div> <li class=3D"mb-2"><h4 class=3D"font-sem=
 ibold mr-2">React Update</h4> <p class=3D"mb-2 text-sm font-normal">Convers=
 ion of all components written as classes to function type components.</p> <=
 div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-center =
 text-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset h=
-over:skew-y-2 transition  svelte-116z7kx">REACTJS</span></div> </li></ul></=
+over:skew-y-2 transition  svelte-1huzarr">REACTJS</span></div> </li></ul></=
 form> <form method=3D"dialog" class=3D"modal-backdrop" data-svelte-h=3D"sve=
 lte-1d3wagh"><button aria-label=3D"close modal">close</button></form> </dia=
 log><li class=3D"ml-4 mt-2 break-inside-avoid"><div class=3D"absolute w-3 h=
@@ -850,49 +918,49 @@ SV Export</h4> <p class=3D"mb-2 text-sm font-normal">Improvement of the CSV=
  export of courses. Optimization of NoSQL queries and javascript data proce=
 ssing.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex i=
 tems-center text-xs font-bold rounded-md backend default px-2 py-1 ring-1 r=
-ing-inset hover:skew-y-2 transition  svelte-116z7kx">NODEJS</span><span cla=
+ing-inset hover:skew-y-2 transition  svelte-1huzarr">NODEJS</span><span cla=
 ss=3D"inline-flex items-center text-xs font-bold rounded-md backend default=
- px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">EXP=
+ px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">EXP=
 RESS</span><span class=3D"inline-flex items-center text-xs font-bold rounde=
 d-md frontend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition=
-  svelte-116z7kx">REACTJS</span><span class=3D"inline-flex items-center tex=
+  svelte-1huzarr">REACTJS</span><span class=3D"inline-flex items-center tex=
 t-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:sk=
-ew-y-2 transition  svelte-116z7kx">MONGODB</span></div> </li><div class=3D"=
+ew-y-2 transition  svelte-1huzarr">MONGODB</span></div> </li><div class=3D"=
 divider"></div> <li class=3D"mb-2 break-inside-avoid-column"><h4 class=3D"f=
 ont-semibold mr-2">Addition of fields</h4> <p class=3D"mb-2 text-sm font-no=
 rmal">Creation of multiple fields in full-stack.</p> <div class=3D"flex fle=
 x-wrap gap-2"><span class=3D"inline-flex items-center text-xs font-bold rou=
 nded-md backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transiti=
-on  svelte-116z7kx">NODEJS</span><span class=3D"inline-flex items-center te=
+on  svelte-1huzarr">NODEJS</span><span class=3D"inline-flex items-center te=
 xt-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hove=
-r:skew-y-2 transition  svelte-116z7kx">EXPRESS</span><span class=3D"inline-=
+r:skew-y-2 transition  svelte-1huzarr">EXPRESS</span><span class=3D"inline-=
 flex items-center text-xs font-bold rounded-md frontend default px-2 py-1 r=
-ing-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">REACTJS</span><=
+ing-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">REACTJS</span><=
 span class=3D"inline-flex items-center text-xs font-bold rounded-md data de=
-fault px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx=
+fault px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr=
 ">MONGODB</span></div> </li><div class=3D"divider"></div> <li class=3D"mb-2=
  break-inside-avoid-column"><h4 class=3D"font-semibold mr-2">Optimization b=
 etween Studio and Course</h4> <p class=3D"mb-2 text-sm font-normal">Improve=
 ment of the course delivery process between the studio platform and the cou=
 rse platform.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline=
 -flex items-center text-xs font-bold rounded-md backend default px-2 py-1 r=
-ing-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">NODEJS</span><s=
+ing-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">NODEJS</span><s=
 pan class=3D"inline-flex items-center text-xs font-bold rounded-md backend =
-default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7=
-kx">PYTHON</span></div> </li><div class=3D"divider"></div> <li class=3D"mb-=
+default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huza=
+rr">PYTHON</span></div> </li><div class=3D"divider"></div> <li class=3D"mb-=
 2 break-inside-avoid-column"><h4 class=3D"font-semibold mr-2">Rewriting Stu=
 dio V2</h4> <p class=3D"mb-2 text-sm font-normal">Recreation from scratch o=
 f the Studio platform for 100% in-house development with similar technologi=
 es to the course platform.</p> <div class=3D"flex flex-wrap gap-2"><span cl=
 ass=3D"inline-flex items-center text-xs font-bold rounded-md backend defaul=
-t px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">PY=
+t px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">PY=
 THON</span><span class=3D"inline-flex items-center text-xs font-bold rounde=
 d-md backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition =
- svelte-116z7kx">FLASK</span><span class=3D"inline-flex items-center text-x=
+ svelte-1huzarr">FLASK</span><span class=3D"inline-flex items-center text-x=
 s font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:s=
-kew-y-2 transition  svelte-116z7kx">ANGULARJS</span><span class=3D"inline-f=
+kew-y-2 transition  svelte-1huzarr">ANGULARJS</span><span class=3D"inline-f=
 lex items-center text-xs font-bold rounded-md data default px-2 py-1 ring-1=
- ring-inset hover:skew-y-2 transition  svelte-116z7kx">MONGODB</span></div>=
+ ring-inset hover:skew-y-2 transition  svelte-1huzarr">MONGODB</span></div>=
  </li></ul></div></div></li> <dialog id=3D"Gymglish" class=3D"modal modal-b=
 ottom sm:modal-middle"><form method=3D"dialog" class=3D"modal-box max-h-[70=
 vh]"><div class=3D"sticky w-[14%] ml-auto -mb-8 -mr-4 top-0" data-svelte-h=
@@ -904,48 +972,48 @@ lass=3D"mb-2 text-sm font-normal">Improvement of the CSV export of courses.=
  Optimization of NoSQL queries and javascript data processing.</p> <div cla=
 ss=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-center text-xs=
  font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:ske=
-w-y-2 transition  svelte-116z7kx">NODEJS</span><span class=3D"inline-flex i=
+w-y-2 transition  svelte-1huzarr">NODEJS</span><span class=3D"inline-flex i=
 tems-center text-xs font-bold rounded-md backend default px-2 py-1 ring-1 r=
-ing-inset hover:skew-y-2 transition  svelte-116z7kx">EXPRESS</span><span cl=
+ing-inset hover:skew-y-2 transition  svelte-1huzarr">EXPRESS</span><span cl=
 ass=3D"inline-flex items-center text-xs font-bold rounded-md frontend defau=
-lt px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">R=
+lt px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">R=
 EACTJS</span><span class=3D"inline-flex items-center text-xs font-bold roun=
 ded-md data default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  =
-svelte-116z7kx">MONGODB</span></div> </li><div class=3D"divider"></div> <li=
+svelte-1huzarr">MONGODB</span></div> </li><div class=3D"divider"></div> <li=
  class=3D"mb-2"><h4 class=3D"font-semibold mr-2">Addition of fields</h4> <p=
  class=3D"mb-2 text-sm font-normal">Creation of multiple fields in full-sta=
 ck.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex item=
 s-center text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring=
--inset hover:skew-y-2 transition  svelte-116z7kx">NODEJS</span><span class=
+-inset hover:skew-y-2 transition  svelte-1huzarr">NODEJS</span><span class=
 =3D"inline-flex items-center text-xs font-bold rounded-md backend default p=
-x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">EXPRE=
+x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">EXPRE=
 SS</span><span class=3D"inline-flex items-center text-xs font-bold rounded-=
 md frontend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  =
-svelte-116z7kx">REACTJS</span><span class=3D"inline-flex items-center text-=
+svelte-1huzarr">REACTJS</span><span class=3D"inline-flex items-center text-=
 xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:skew=
--y-2 transition  svelte-116z7kx">MONGODB</span></div> </li><div class=3D"di=
+-y-2 transition  svelte-1huzarr">MONGODB</span></div> </li><div class=3D"di=
 vider"></div> <li class=3D"mb-2"><h4 class=3D"font-semibold mr-2">Optimizat=
 ion between Studio and Course</h4> <p class=3D"mb-2 text-sm font-normal">Im=
 provement of the course delivery process between the studio platform and th=
 e course platform.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"i=
 nline-flex items-center text-xs font-bold rounded-md backend default px-2 p=
-y-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">NODEJS</sp=
+y-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">NODEJS</sp=
 an><span class=3D"inline-flex items-center text-xs font-bold rounded-md bac=
 kend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-=
-116z7kx">PYTHON</span></div> </li><div class=3D"divider"></div> <li class=
+1huzarr">PYTHON</span></div> </li><div class=3D"divider"></div> <li class=
 =3D"mb-2"><h4 class=3D"font-semibold mr-2">Rewriting Studio V2</h4> <p clas=
 s=3D"mb-2 text-sm font-normal">Recreation from scratch of the Studio platfo=
 rm for 100% in-house development with similar technologies to the course pl=
 atform.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex =
 items-center text-xs font-bold rounded-md backend default px-2 py-1 ring-1 =
-ring-inset hover:skew-y-2 transition  svelte-116z7kx">PYTHON</span><span cl=
+ring-inset hover:skew-y-2 transition  svelte-1huzarr">PYTHON</span><span cl=
 ass=3D"inline-flex items-center text-xs font-bold rounded-md backend defaul=
-t px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">FL=
+t px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">FL=
 ASK</span><span class=3D"inline-flex items-center text-xs font-bold rounded=
 -md frontend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition =
- svelte-116z7kx">ANGULARJS</span><span class=3D"inline-flex items-center te=
+ svelte-1huzarr">ANGULARJS</span><span class=3D"inline-flex items-center te=
 xt-xs font-bold rounded-md data default px-2 py-1 ring-1 ring-inset hover:s=
-kew-y-2 transition  svelte-116z7kx">MONGODB</span></div> </li></ul></form> =
+kew-y-2 transition  svelte-1huzarr">MONGODB</span></div> </li></ul></form> =
 <form method=3D"dialog" class=3D"modal-backdrop" data-svelte-h=3D"svelte-1d=
 3wagh"><button aria-label=3D"close modal">close</button></form> </dialog><l=
 i class=3D"ml-4 mt-2 break-inside-avoid"><div class=3D"absolute w-3 h-3 bg-=
@@ -965,17 +1033,17 @@ ake requests. Creation of an algorithm calculating the available slots on a=
  schedule. Creation of frontend pages.</p> <div class=3D"flex flex-wrap gap=
 -2"><span class=3D"inline-flex items-center text-xs font-bold rounded-md ba=
 ckend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte=
--116z7kx">C# .NET</span><span class=3D"inline-flex items-center text-xs fon=
+-1huzarr">C# .NET</span><span class=3D"inline-flex items-center text-xs fon=
 t-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:skew-y=
--2 transition  svelte-116z7kx">VUEJS</span></div> </li><div class=3D"divide=
+-2 transition  svelte-1huzarr">VUEJS</span></div> </li><div class=3D"divide=
 r"></div> <li class=3D"mb-2 break-inside-avoid-column"><h4 class=3D"font-se=
 mibold mr-2">Training</h4> <p class=3D"mb-2 text-sm font-normal">Training g=
 iven in VueX (Redux for VueJS)</p> <div class=3D"flex flex-wrap gap-2"><spa=
 n class=3D"inline-flex items-center text-xs font-bold rounded-md frontend d=
-efault px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7k=
-x">VUEJS</span><span class=3D"inline-flex items-center text-xs font-bold ro=
+efault px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzar=
+r">VUEJS</span><span class=3D"inline-flex items-center text-xs font-bold ro=
 unded-md other default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transitio=
-n  svelte-116z7kx">REDUX</span></div> </li></ul></div></div></li> <dialog i=
+n  svelte-1huzarr">REDUX</span></div> </li></ul></div></div></li> <dialog i=
 d=3D"Eudonet" class=3D"modal modal-bottom sm:modal-middle"><form method=3D"=
 dialog" class=3D"modal-box max-h-[70vh]"><div class=3D"sticky w-[14%] ml-au=
 to -mb-8 -mr-4 top-0" data-svelte-h=3D"svelte-1rf2aif"><button class=3D"btn=
@@ -987,17 +1055,17 @@ emibold mr-2">GRU (User Relationship Management)</h4> <p class=3D"mb-2 text=
 reation of an algorithm calculating the available slots on a schedule. Crea=
 tion of frontend pages.</p> <div class=3D"flex flex-wrap gap-2"><span class=
 =3D"inline-flex items-center text-xs font-bold rounded-md backend default p=
-x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">C# .N=
+x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">C# .N=
 ET</span><span class=3D"inline-flex items-center text-xs font-bold rounded-=
 md frontend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  =
-svelte-116z7kx">VUEJS</span></div> </li><div class=3D"divider"></div> <li c=
+svelte-1huzarr">VUEJS</span></div> </li><div class=3D"divider"></div> <li c=
 lass=3D"mb-2"><h4 class=3D"font-semibold mr-2">Training</h4> <p class=3D"mb=
 -2 text-sm font-normal">Training given in VueX (Redux for VueJS)</p> <div c=
 lass=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-center text-=
 xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset hover:=
-skew-y-2 transition  svelte-116z7kx">VUEJS</span><span class=3D"inline-flex=
+skew-y-2 transition  svelte-1huzarr">VUEJS</span><span class=3D"inline-flex=
  items-center text-xs font-bold rounded-md other default px-2 py-1 ring-1 r=
-ing-inset hover:skew-y-2 transition  svelte-116z7kx">REDUX</span></div> </l=
+ing-inset hover:skew-y-2 transition  svelte-1huzarr">REDUX</span></div> </l=
 i></ul></form> <form method=3D"dialog" class=3D"modal-backdrop" data-svelte=
 -h=3D"svelte-1d3wagh"><button aria-label=3D"close modal">close</button></fo=
 rm> </dialog><li class=3D"ml-4 mt-2 break-inside-avoid"><div class=3D"absol=
@@ -1018,25 +1086,25 @@ g on the Si-LAV system with migration to a V2 which includes migration from=
  GeoServer to Leaflet, management of authorizations in the SI-LAV database,=
  and other improvements.</p> <div class=3D"flex flex-wrap gap-2"><span clas=
 s=3D"inline-flex items-center text-xs font-bold rounded-md backend default =
-px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">JAVA=
+px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">JAVA=
  J2E</span><span class=3D"inline-flex items-center text-xs font-bold rounde=
 d-md backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition =
- svelte-116z7kx">HIBERNATE</span><span class=3D"inline-flex items-center te=
+ svelte-1huzarr">HIBERNATE</span><span class=3D"inline-flex items-center te=
 xt-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hove=
-r:skew-y-2 transition  svelte-116z7kx">LOG4J</span><span class=3D"inline-fl=
+r:skew-y-2 transition  svelte-1huzarr">LOG4J</span><span class=3D"inline-fl=
 ex items-center text-xs font-bold rounded-md backend default px-2 py-1 ring=
--1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">JUNITS</span><span=
+-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">JUNITS</span><span=
  class=3D"inline-flex items-center text-xs font-bold rounded-md frontend de=
-fault px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx=
+fault px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr=
 ">PRIMEFACES</span><span class=3D"inline-flex items-center text-xs font-bol=
 d rounded-md data default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transi=
-tion  svelte-116z7kx">SQL</span><span class=3D"inline-flex items-center tex=
+tion  svelte-1huzarr">SQL</span><span class=3D"inline-flex items-center tex=
 t-xs font-bold rounded-md other default px-2 py-1 ring-1 ring-inset hover:s=
-kew-y-2 transition  svelte-116z7kx">MAVEN</span><span class=3D"inline-flex =
+kew-y-2 transition  svelte-1huzarr">MAVEN</span><span class=3D"inline-flex =
 items-center text-xs font-bold rounded-md devops default px-2 py-1 ring-1 r=
-ing-inset hover:skew-y-2 transition  svelte-116z7kx">JENKINS</span><span cl=
+ing-inset hover:skew-y-2 transition  svelte-1huzarr">JENKINS</span><span cl=
 ass=3D"inline-flex items-center text-xs font-bold rounded-md other default =
-px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">LEAF=
+px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">LEAF=
 LET</span></div> </li><div class=3D"divider"></div> <li class=3D"mb-2 break=
 -inside-avoid-column"><h4 class=3D"font-semibold mr-2">Osiris</h4> <p class=
 =3D"mb-2 text-sm font-normal">Participation in the evolution of the Osiris =
@@ -1045,11 +1113,11 @@ site for the Ministry of Youth and Sports, including the integration of the=
  three to five years, and creation of new pages.</p> <div class=3D"flex fle=
 x-wrap gap-2"><span class=3D"inline-flex items-center text-xs font-bold rou=
 nded-md backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transiti=
-on  svelte-116z7kx">C# .NET</span><span class=3D"inline-flex items-center t=
+on  svelte-1huzarr">C# .NET</span><span class=3D"inline-flex items-center t=
 ext-xs font-bold rounded-md frontend default px-2 py-1 ring-1 ring-inset ho=
-ver:skew-y-2 transition  svelte-116z7kx">RAZORHTML</span><span class=3D"inl=
+ver:skew-y-2 transition  svelte-1huzarr">RAZORHTML</span><span class=3D"inl=
 ine-flex items-center text-xs font-bold rounded-md data default px-2 py-1 r=
-ing-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">MSSQL </span></=
+ing-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">MSSQL </span></=
 div> </li></ul></div></div></li> <dialog id=3D"Netapsys Paris" class=3D"mod=
 al modal-bottom sm:modal-middle"><form method=3D"dialog" class=3D"modal-box=
  max-h-[70vh]"><div class=3D"sticky w-[14%] ml-auto -mb-8 -mr-4 top-0" data=
@@ -1062,25 +1130,25 @@ ith migration to a V2 which includes migration from GeoServer to Leaflet, m=
 anagement of authorizations in the SI-LAV database, and other improvements.=
 </p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-c=
 enter text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-in=
-set hover:skew-y-2 transition  svelte-116z7kx">JAVA J2E</span><span class=
+set hover:skew-y-2 transition  svelte-1huzarr">JAVA J2E</span><span class=
 =3D"inline-flex items-center text-xs font-bold rounded-md backend default p=
-x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">HIBER=
+x-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">HIBER=
 NATE</span><span class=3D"inline-flex items-center text-xs font-bold rounde=
 d-md backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition =
- svelte-116z7kx">LOG4J</span><span class=3D"inline-flex items-center text-x=
+ svelte-1huzarr">LOG4J</span><span class=3D"inline-flex items-center text-x=
 s font-bold rounded-md backend default px-2 py-1 ring-1 ring-inset hover:sk=
-ew-y-2 transition  svelte-116z7kx">JUNITS</span><span class=3D"inline-flex =
+ew-y-2 transition  svelte-1huzarr">JUNITS</span><span class=3D"inline-flex =
 items-center text-xs font-bold rounded-md frontend default px-2 py-1 ring-1=
- ring-inset hover:skew-y-2 transition  svelte-116z7kx">PRIMEFACES</span><sp=
+ ring-inset hover:skew-y-2 transition  svelte-1huzarr">PRIMEFACES</span><sp=
 an class=3D"inline-flex items-center text-xs font-bold rounded-md data defa=
-ult px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">=
+ult px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">=
 SQL</span><span class=3D"inline-flex items-center text-xs font-bold rounded=
 -md other default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  sv=
-elte-116z7kx">MAVEN</span><span class=3D"inline-flex items-center text-xs f=
+elte-1huzarr">MAVEN</span><span class=3D"inline-flex items-center text-xs f=
 ont-bold rounded-md devops default px-2 py-1 ring-1 ring-inset hover:skew-y=
--2 transition  svelte-116z7kx">JENKINS</span><span class=3D"inline-flex ite=
+-2 transition  svelte-1huzarr">JENKINS</span><span class=3D"inline-flex ite=
 ms-center text-xs font-bold rounded-md other default px-2 py-1 ring-1 ring-=
-inset hover:skew-y-2 transition  svelte-116z7kx">LEAFLET</span></div> </li>=
+inset hover:skew-y-2 transition  svelte-1huzarr">LEAFLET</span></div> </li>=
 <div class=3D"divider"></div> <li class=3D"mb-2"><h4 class=3D"font-semibold=
  mr-2">Osiris</h4> <p class=3D"mb-2 text-sm font-normal">Participation in t=
 he evolution of the Osiris site for the Ministry of Youth and Sports, inclu=
@@ -1088,12 +1156,12 @@ ding the integration of the CNDS methods, addition of new fields, adaptatio=
 n of the budget system from three to five years, and creation of new pages.=
 </p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inline-flex items-c=
 enter text-xs font-bold rounded-md backend default px-2 py-1 ring-1 ring-in=
-set hover:skew-y-2 transition  svelte-116z7kx">C# .NET</span><span class=3D=
+set hover:skew-y-2 transition  svelte-1huzarr">C# .NET</span><span class=3D=
 "inline-flex items-center text-xs font-bold rounded-md frontend default px-=
-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">RAZORHT=
+2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">RAZORHT=
 ML</span><span class=3D"inline-flex items-center text-xs font-bold rounded-=
 md data default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svel=
-te-116z7kx">MSSQL </span></div> </li></ul></form> <form method=3D"dialog" c=
+te-1huzarr">MSSQL </span></div> </li></ul></form> <form method=3D"dialog" c=
 lass=3D"modal-backdrop" data-svelte-h=3D"svelte-1d3wagh"><button aria-label=
 =3D"close modal">close</button></form> </dialog><li class=3D"ml-4 mt-2 brea=
 k-inside-avoid"><div class=3D"absolute w-3 h-3 bg-gray-200 rounded-full mt-=
@@ -1114,9 +1182,9 @@ development of the HaulotteDiag diagnostic application for Haulotte (forkli=
 fts), optimizing its compatibility with their vehicles.</p> <div class=3D"f=
 lex flex-wrap gap-2"><span class=3D"inline-flex items-center text-xs font-b=
 old rounded-md backend default px-2 py-1 ring-1 ring-inset hover:skew-y-2 t=
-ransition  svelte-116z7kx">C++</span><span class=3D"inline-flex items-cente=
+ransition  svelte-1huzarr">C++</span><span class=3D"inline-flex items-cente=
 r text-xs font-bold rounded-md other default px-2 py-1 ring-1 ring-inset ho=
-ver:skew-y-2 transition  svelte-116z7kx">QT</span></div> </li></ul></div></=
+ver:skew-y-2 transition  svelte-1huzarr">QT</span></div> </li></ul></div></=
 div></li> <dialog id=3D"Netapsys Lyon" class=3D"modal modal-bottom sm:modal=
 -middle"><form method=3D"dialog" class=3D"modal-box max-h-[70vh]"><div clas=
 s=3D"sticky w-[14%] ml-auto -mb-8 -mr-4 top-0" data-svelte-h=3D"svelte-1rf2=
@@ -1128,10 +1196,10 @@ mb-2 text-sm font-normal">Participation in the development of the HaulotteD=
 iag diagnostic application for Haulotte (forklifts), optimizing its compati=
 bility with their vehicles.</p> <div class=3D"flex flex-wrap gap-2"><span c=
 lass=3D"inline-flex items-center text-xs font-bold rounded-md backend defau=
-lt px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">C=
+lt px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  svelte-1huzarr">C=
 ++</span><span class=3D"inline-flex items-center text-xs font-bold rounded-=
 md other default px-2 py-1 ring-1 ring-inset hover:skew-y-2 transition  sve=
-lte-116z7kx">QT</span></div> </li></ul></form> <form method=3D"dialog" clas=
+lte-1huzarr">QT</span></div> </li></ul></form> <form method=3D"dialog" clas=
 s=3D"modal-backdrop" data-svelte-h=3D"svelte-1d3wagh"><button aria-label=3D=
 "close modal">close</button></form> </dialog></ol></div></div> <div class=
 =3D"divider sm:hidden mx-2 my-14"></div> <div class=3D"px-2 self-start w-fu=
@@ -1149,37 +1217,37 @@ iv> <div class=3D"collapse-content"><p class=3D"mb-4 text-sm font-normal">A=
 dvanced training in GoLang, Python, NodeJS, React, Docker, Linux, Terraform=
 , and Kubernetes. Explored cloud technologies and Agile methodology.</p> <d=
 iv><span class=3D"inline-flex items-center rounded-md none px-2 py-1 text-x=
-s ring-1 ring-inset hover:skew-y-2 transition svelte-1cx5vnw">GOLANG</span>=
+s ring-1 ring-inset hover:skew-y-2 transition svelte-15y6h2k">GOLANG</span>=
 <span class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs r=
-ing-1 ring-inset hover:skew-y-2 transition svelte-1cx5vnw">PYTHON</span><sp=
+ing-1 ring-inset hover:skew-y-2 transition svelte-15y6h2k">PYTHON</span><sp=
 an class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring=
--1 ring-inset hover:skew-y-2 transition svelte-1cx5vnw">NODEJS</span><span =
+-1 ring-inset hover:skew-y-2 transition svelte-15y6h2k">NODEJS</span><span =
 class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 =
-ring-inset hover:skew-y-2 transition svelte-1cx5vnw">REACTJS</span><span cl=
+ring-inset hover:skew-y-2 transition svelte-15y6h2k">REACTJS</span><span cl=
 ass=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ri=
-ng-inset hover:skew-y-2 transition svelte-1cx5vnw">VUEJS</span><span class=
+ng-inset hover:skew-y-2 transition svelte-15y6h2k">VUEJS</span><span class=
 =3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-=
-inset hover:skew-y-2 transition svelte-1cx5vnw">DOCKER</span><span class=3D=
+inset hover:skew-y-2 transition svelte-15y6h2k">DOCKER</span><span class=3D=
 "inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-ins=
-et hover:skew-y-2 transition svelte-1cx5vnw">TERRAFORM</span><span class=3D=
+et hover:skew-y-2 transition svelte-15y6h2k">TERRAFORM</span><span class=3D=
 "inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-ins=
-et hover:skew-y-2 transition svelte-1cx5vnw">KUBERNETES</span><span class=
+et hover:skew-y-2 transition svelte-15y6h2k">KUBERNETES</span><span class=
 =3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-=
-inset hover:skew-y-2 transition svelte-1cx5vnw">GOOGLE CLOUD</span><span cl=
+inset hover:skew-y-2 transition svelte-15y6h2k">GOOGLE CLOUD</span><span cl=
 ass=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ri=
-ng-inset hover:skew-y-2 transition svelte-1cx5vnw">AWS</span><span class=3D=
+ng-inset hover:skew-y-2 transition svelte-15y6h2k">AWS</span><span class=3D=
 "inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-ins=
-et hover:skew-y-2 transition svelte-1cx5vnw">AZURE</span><span class=3D"inl=
+et hover:skew-y-2 transition svelte-15y6h2k">AZURE</span><span class=3D"inl=
 ine-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset h=
-over:skew-y-2 transition svelte-1cx5vnw">GIT</span><span class=3D"inline-fl=
+over:skew-y-2 transition svelte-15y6h2k">GIT</span><span class=3D"inline-fl=
 ex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:s=
-kew-y-2 transition svelte-1cx5vnw">SQL</span><span class=3D"inline-flex ite=
+kew-y-2 transition svelte-15y6h2k">SQL</span><span class=3D"inline-flex ite=
 ms-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-=
-2 transition svelte-1cx5vnw">MONGODB</span><span class=3D"inline-flex items=
+2 transition svelte-15y6h2k">MONGODB</span><span class=3D"inline-flex items=
 -center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 =
-transition svelte-1cx5vnw">LINUX</span><span class=3D"inline-flex items-cen=
+transition svelte-15y6h2k">LINUX</span><span class=3D"inline-flex items-cen=
 ter rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 tran=
-sition svelte-1cx5vnw">AGILE</span></div></div></div></div></div> </li><li =
+sition svelte-15y6h2k">AGILE</span></div></div></div></div></div> </li><li =
 class=3D"mb-5 ml-4"><div class=3D"absolute w-3 h-3 bg-gray-200 rounded-full=
  mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700=
 "></div> <time class=3D"mb-1 text-sm font-normal leading-none text-accent">=
@@ -1193,23 +1261,23 @@ h3> <div class=3D"text-sm">License  RNCP Level II</div></div> <div class=3D=
  in NodeJS, React, Python, Flutter, and Kotlin. Learned databases managemen=
 t SQL and NoSQL and Agile methodology.</p> <div><span class=3D"inline-flex =
 items-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew=
--y-2 transition svelte-1cx5vnw">NODEJS</span><span class=3D"inline-flex ite=
+-y-2 transition svelte-15y6h2k">NODEJS</span><span class=3D"inline-flex ite=
 ms-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-=
-2 transition svelte-1cx5vnw">PYTHON</span><span class=3D"inline-flex items-=
+2 transition svelte-15y6h2k">PYTHON</span><span class=3D"inline-flex items-=
 center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 t=
-ransition svelte-1cx5vnw">KOTLIN</span><span class=3D"inline-flex items-cen=
+ransition svelte-15y6h2k">KOTLIN</span><span class=3D"inline-flex items-cen=
 ter rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 tran=
-sition svelte-1cx5vnw">REACTJS</span><span class=3D"inline-flex items-cente=
+sition svelte-15y6h2k">REACTJS</span><span class=3D"inline-flex items-cente=
 r rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transi=
-tion svelte-1cx5vnw">FLUTTER</span><span class=3D"inline-flex items-center =
+tion svelte-15y6h2k">FLUTTER</span><span class=3D"inline-flex items-center =
 rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transiti=
-on svelte-1cx5vnw">SQL</span><span class=3D"inline-flex items-center rounde=
+on svelte-15y6h2k">SQL</span><span class=3D"inline-flex items-center rounde=
 d-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition sve=
-lte-1cx5vnw">NOSQL</span><span class=3D"inline-flex items-center rounded-md=
+lte-15y6h2k">NOSQL</span><span class=3D"inline-flex items-center rounded-md=
  none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-=
-1cx5vnw">GIT</span><span class=3D"inline-flex items-center rounded-md none =
-px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1cx5vn=
-w">AGILE</span></div></div></div></div></div> </li></ol> <div class=3D"divi=
+15y6h2k">GIT</span><span class=3D"inline-flex items-center rounded-md none =
+px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-15y6h2=
+k">AGILE</span></div></div></div></div></div> </li></ol> <div class=3D"divi=
 der my-14"></div> <div class=3D"stats  w-full"><div class=3D"stat p-0 justi=
 fy-between"><div class=3D"stat-figure text-primary w-72 hidden absolute sm:=
 grid hover:z-20 transform-gpu transition overflow-y-hidden"><svg version=3D=
@@ -2424,10 +2492,10 @@ c.826.825.826 1.651.826 2.477v.33l1.651 1.487c-.33.495-.66.826-.826 1.321c-=
 =09
 
 </body></html>
-------MultipartBoundary--GX0HPsR2EP3dMhluITJYfya1sdlOb4ug7Qlpc9tCpK----
+------MultipartBoundary--lxKywbEuW11cvogVlJeiQQIm5RdMg6v915EGT5PcM4----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/_app/immutable/assets/0.R4hrBhUe.css
+Content-Location: https://cv.bnei.dev/_app/immutable/assets/0.DkcnG7Cq.css
 
 @charset "utf-8";
 
@@ -2472,13 +2540,14 @@ table { text-indent: 0px; border-color: inherit; border-collapse: collapse;=
 
 button, input, optgroup, select, textarea { font-family: inherit; font-feat=
 ure-settings: inherit; font-variation-settings: inherit; font-size: 100%; f=
-ont-weight: inherit; line-height: inherit; color: inherit; margin: 0px; pad=
-ding: 0px; }
+ont-weight: inherit; line-height: inherit; letter-spacing: inherit; color: =
+inherit; margin: 0px; padding: 0px; }
 
 button, select { text-transform: none; }
 
-button, [type=3D"button"], [type=3D"reset"], [type=3D"submit"] { appearance=
-: button; background-color: transparent; background-image: none; }
+button, input:where([type=3D"button"]), input:where([type=3D"reset"]), inpu=
+t:where([type=3D"submit"]) { appearance: button; background-color: transpar=
+ent; background-image: none; }
 
 progress { vertical-align: baseline; }
 
@@ -2522,7 +2591,7 @@ img, video { max-width: 100%; height: auto; }
 :root, [data-theme] { background-color: var(--fallback-b1,oklch(var(--b1)/1=
 )); color: var(--fallback-bc,oklch(var(--bc)/1)); }
 
-@supports not (color: oklch(0 0 0)) {
+@supports not (color: oklch(0% 0 0)) {
   :root { color-scheme: light; --fallback-p: #491eff; --fallback-pc: #d4dbf=
 f; --fallback-s: #ff41c7; --fallback-sc: #fff9fc; --fallback-a: #00cfbd; --=
 fallback-ac: #00100d; --fallback-n: #2b3440; --fallback-nc: #d7dde4; --fall=
@@ -2543,68 +2612,69 @@ u: #00ca92; --fallback-suc: #000000; --fallback-wa: #ffc22d; --fallback-wac=
 
 html { -webkit-tap-highlight-color: transparent; }
 
-:root { --p: .666867 .085981 51.13212; --b2: .93 0 0; --b3: .86 0 0; --bc: =
-.2 0 0; --pc: .133373 .017196 51.13212; --sc: .127101 .033247 45.819942; --=
-ac: .896131 .019868 39.886199; --nc: .877082 .004808 262.829219; --inc: .15=
-1705 .027481 231.6166; --suc: .154663 .030576 163.102898; --wac: .166604 .0=
-32836 83.424292; --erc: .142439 .032979 22.150603; --rounded-box: 1rem; --r=
-ounded-btn: .5rem; --rounded-badge: 1.9rem; --animation-btn: .25s; --animat=
-ion-input: .2s; --btn-focus-scale: .95; --border-btn: 1px; --tab-border: 1p=
-x; --tab-radius: .5rem; --s: .635504 .166237 45.819942; --a: .480653 .09934=
- 39.886199; --n: .385412 .024038 262.829219; --b1: 1 0 0; --in: .758525 .13=
-7405 231.6166; --su: .773316 .152882 163.102898; --wa: .83302 .164179 83.42=
-4292; --er: .712196 .164893 22.150603; }
+:root { --p: 66.6867% .085981 51.13212; --b2: 93% 0 0; --b3: 86% 0 0; --bc:=
+ 20% 0 0; --pc: 13.3373% .017196 51.13212; --sc: 12.7101% .033247 45.819942=
+; --ac: 89.6131% .019868 39.886199; --nc: 87.7082% .004808 262.829219; --in=
+c: 15.1705% .027481 231.6166; --suc: 15.4663% .030576 163.102898; --wac: 16=
+.6604% .032836 83.424292; --erc: 14.2439% .032979 22.150603; --rounded-box:=
+ 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --animation-btn: .25s=
+; --animation-input: .2s; --btn-focus-scale: .95; --border-btn: 1px; --tab-=
+border: 1px; --tab-radius: .5rem; --s: 63.5504% .166237 45.819942; --a: 48.=
+0653% .09934 39.886199; --n: 38.5412% .024038 262.829219; --b1: 100% 0 0; -=
+-in: 75.8525% .137405 231.6166; --su: 77.3316% .152882 163.102898; --wa: 83=
+.302% .164179 83.424292; --er: 71.2196% .164893 22.150603; }
 
 @media (prefers-color-scheme: dark) {
-  :root { color-scheme: dark; --b2: .230416 0 0; --b3: .213072 0 0; --bc: .=
-849552 0 0; --sc: .89196 .0496 305.03; --nc: .848742 .009322 65.681484; --i=
-nc: .90923 .043042 262.880917; --suc: .12541 .033982 149.213788; --wac: .13=
-3168 .031484 58.31834; --erc: .13144 .0398 27.33; --rounded-box: 1rem; --ro=
-unded-btn: .5rem; --rounded-badge: 1.9rem; --animation-btn: .25s; --animati=
-on-input: .2s; --btn-focus-scale: .95; --border-btn: 1px; --tab-border: 1px=
-; --tab-radius: .5rem; --p: .7748 .204 60.62; --pc: .196935 .004671 196.779=
-412; --s: .4598 .248 305.03; --a: .648 .223 136.073479; --ac: 0 0 0; --n: .=
-24371 .046608 65.681484; --b1: .247759 0 0; --in: .54615 .215208 262.880917=
-; --su: .627052 .169912 149.213788; --wa: .66584 .157422 58.31834; --er: .6=
-572 .199 27.33; }
+  :root { color-scheme: dark; --b2: 23.0416% 0 0; --b3: 21.3072% 0 0; --bc:=
+ 84.9552% 0 0; --sc: 89.196% .0496 305.03; --nc: 84.8742% .009322 65.681484=
+; --inc: 90.923% .043042 262.880917; --suc: 12.541% .033982 149.213788; --w=
+ac: 13.3168% .031484 58.31834; --erc: 13.144% .0398 27.33; --rounded-box: 1=
+rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --animation-btn: .25s; =
+--animation-input: .2s; --btn-focus-scale: .95; --border-btn: 1px; --tab-bo=
+rder: 1px; --tab-radius: .5rem; --p: 77.48% .204 60.62; --pc: 19.6935% .004=
+671 196.779412; --s: 45.98% .248 305.03; --a: 64.8% .223 136.073479; --ac: =
+0% 0 0; --n: 24.371% .046608 65.681484; --b1: 24.7759% 0 0; --in: 54.615% .=
+215208 262.880917; --su: 62.7052% .169912 149.213788; --wa: 66.584% .157422=
+ 58.31834; --er: 65.72% .199 27.33; }
 }
 
-[data-theme=3D"professionnal"] { --p: .666867 .085981 51.13212; --b2: .93 0=
- 0; --b3: .86 0 0; --bc: .2 0 0; --pc: .133373 .017196 51.13212; --sc: .127=
-101 .033247 45.819942; --ac: .896131 .019868 39.886199; --nc: .877082 .0048=
-08 262.829219; --inc: .151705 .027481 231.6166; --suc: .154663 .030576 163.=
-102898; --wac: .166604 .032836 83.424292; --erc: .142439 .032979 22.150603;=
- --rounded-box: 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --anim=
-ation-btn: .25s; --animation-input: .2s; --btn-focus-scale: .95; --border-b=
-tn: 1px; --tab-border: 1px; --tab-radius: .5rem; --s: .635504 .166237 45.81=
-9942; --a: .480653 .09934 39.886199; --n: .385412 .024038 262.829219; --b1:=
- 1 0 0; --in: .758525 .137405 231.6166; --su: .773316 .152882 163.102898; -=
--wa: .83302 .164179 83.424292; --er: .712196 .164893 22.150603; }
+[data-theme=3D"professionnal"] { --p: 66.6867% .085981 51.13212; --b2: 93% =
+0 0; --b3: 86% 0 0; --bc: 20% 0 0; --pc: 13.3373% .017196 51.13212; --sc: 1=
+2.7101% .033247 45.819942; --ac: 89.6131% .019868 39.886199; --nc: 87.7082%=
+ .004808 262.829219; --inc: 15.1705% .027481 231.6166; --suc: 15.4663% .030=
+576 163.102898; --wac: 16.6604% .032836 83.424292; --erc: 14.2439% .032979 =
+22.150603; --rounded-box: 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9r=
+em; --animation-btn: .25s; --animation-input: .2s; --btn-focus-scale: .95; =
+--border-btn: 1px; --tab-border: 1px; --tab-radius: .5rem; --s: 63.5504% .1=
+66237 45.819942; --a: 48.0653% .09934 39.886199; --n: 38.5412% .024038 262.=
+829219; --b1: 100% 0 0; --in: 75.8525% .137405 231.6166; --su: 77.3316% .15=
+2882 163.102898; --wa: 83.302% .164179 83.424292; --er: 71.2196% .164893 22=
+.150603; }
 
-[data-theme=3D"halloween"] { color-scheme: dark; --b2: .230416 0 0; --b3: .=
-213072 0 0; --bc: .849552 0 0; --sc: .89196 .0496 305.03; --nc: .848742 .00=
-9322 65.681484; --inc: .90923 .043042 262.880917; --suc: .12541 .033982 149=
-.213788; --wac: .133168 .031484 58.31834; --erc: .13144 .0398 27.33; --roun=
-ded-box: 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --animation-b=
-tn: .25s; --animation-input: .2s; --btn-focus-scale: .95; --border-btn: 1px=
-; --tab-border: 1px; --tab-radius: .5rem; --p: .7748 .204 60.62; --pc: .196=
-935 .004671 196.779412; --s: .4598 .248 305.03; --a: .648 .223 136.073479; =
---ac: 0 0 0; --n: .24371 .046608 65.681484; --b1: .247759 0 0; --in: .54615=
- .215208 262.880917; --su: .627052 .169912 149.213788; --wa: .66584 .157422=
- 58.31834; --er: .6572 .199 27.33; }
+[data-theme=3D"halloween"] { color-scheme: dark; --b2: 23.0416% 0 0; --b3: =
+21.3072% 0 0; --bc: 84.9552% 0 0; --sc: 89.196% .0496 305.03; --nc: 84.8742=
+% .009322 65.681484; --inc: 90.923% .043042 262.880917; --suc: 12.541% .033=
+982 149.213788; --wac: 13.3168% .031484 58.31834; --erc: 13.144% .0398 27.3=
+3; --rounded-box: 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; --an=
+imation-btn: .25s; --animation-input: .2s; --btn-focus-scale: .95; --border=
+-btn: 1px; --tab-border: 1px; --tab-radius: .5rem; --p: 77.48% .204 60.62; =
+--pc: 19.6935% .004671 196.779412; --s: 45.98% .248 305.03; --a: 64.8% .223=
+ 136.073479; --ac: 0% 0 0; --n: 24.371% .046608 65.681484; --b1: 24.7759% 0=
+ 0; --in: 54.615% .215208 262.880917; --su: 62.7052% .169912 149.213788; --=
+wa: 66.584% .157422 58.31834; --er: 65.72% .199 27.33; }
 
-[data-theme=3D"dark"] { --p: .951917 .005998 223.457408; --b2: .169449 0 0;=
- --b3: .156695 0 0; --bc: .836441 0 0; --pc: .190383 .0012 223.457408; --sc=
-: .127101 .033247 45.819942; --ac: .896131 .019868 39.886199; --nc: .877082=
- .004808 262.829219; --inc: .151705 .027481 231.6166; --suc: .154663 .03057=
-6 163.102898; --wac: .166604 .032836 83.424292; --erc: .142439 .032979 22.1=
-50603; --rounded-box: 1rem; --rounded-btn: .5rem; --rounded-badge: 1.9rem; =
---animation-btn: .25s; --animation-input: .2s; --btn-focus-scale: .95; --bo=
-rder-btn: 1px; --tab-border: 1px; --tab-radius: .5rem; --s: .635504 .166237=
- 45.819942; --a: .480653 .09934 39.886199; --n: .385412 .024038 262.829219;=
- --b1: .182204 0 0; --in: .758525 .137405 231.6166; --su: .773316 .152882 1=
-63.102898; --wa: .83302 .164179 83.424292; --er: .712196 .164893 22.150603;=
- }
+[data-theme=3D"dark"] { --p: 95.1917% .005998 223.457408; --b2: 16.9449% 0 =
+0; --b3: 15.6695% 0 0; --bc: 83.6441% 0 0; --pc: 19.0383% .0012 223.457408;=
+ --sc: 12.7101% .033247 45.819942; --ac: 89.6131% .019868 39.886199; --nc: =
+87.7082% .004808 262.829219; --inc: 15.1705% .027481 231.6166; --suc: 15.46=
+63% .030576 163.102898; --wac: 16.6604% .032836 83.424292; --erc: 14.2439% =
+.032979 22.150603; --rounded-box: 1rem; --rounded-btn: .5rem; --rounded-bad=
+ge: 1.9rem; --animation-btn: .25s; --animation-input: .2s; --btn-focus-scal=
+e: .95; --border-btn: 1px; --tab-border: 1px; --tab-radius: .5rem; --s: 63.=
+5504% .166237 45.819942; --a: 48.0653% .09934 39.886199; --n: 38.5412% .024=
+038 262.829219; --b1: 18.2204% 0 0; --in: 75.8525% .137405 231.6166; --su: =
+77.3316% .152882 163.102898; --wa: 83.302% .164179 83.424292; --er: 71.2196=
+% .164893 22.150603; }
 
 *, ::before, ::after { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; =
 --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; -=
@@ -2620,7 +2690,8 @@ s: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; -=
 -tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --t=
 w-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale:=
  ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacit=
-y: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; }
+y: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; =
+--tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
 
 ::backdrop { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-trans=
 late-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y=
@@ -2636,7 +2707,8 @@ contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-satura=
 te: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop=
 -brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-ba=
 ckdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-=
-backdrop-saturate: ; --tw-backdrop-sepia: ; }
+backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-conta=
+in-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
 
 .avatar { position: relative; display: inline-flex; }
 
@@ -2662,11 +2734,11 @@ color: var(--fallback-bc,oklch(var(--bc)/var(--tw-text-opacity))); }
 @media (hover: hover) {
   .label a:hover { --tw-text-opacity: 1; color: var(--fallback-bc,oklch(var=
 (--bc)/var(--tw-text-opacity))); }
-  .menu li > :not(ul):not(.menu-title):not(details):active, .menu li > :not=
-(ul):not(.menu-title):not(details).active, .menu li > details > summary:act=
-ive { --tw-bg-opacity: 1; background-color: var(--fallback-n,oklch(var(--n)=
-/var(--tw-bg-opacity))); --tw-text-opacity: 1; color: var(--fallback-nc,okl=
-ch(var(--nc)/var(--tw-text-opacity))); }
+  .menu li > :not(ul, .menu-title, details, .btn):active, .menu li > :not(u=
+l, .menu-title, details, .btn).active, .menu li > details > summary:active =
+{ --tw-bg-opacity: 1; background-color: var(--fallback-n,oklch(var(--n)/var=
+(--tw-bg-opacity))); --tw-text-opacity: 1; color: var(--fallback-nc,oklch(v=
+ar(--nc)/var(--tw-text-opacity))); }
   .table tr.hover:hover, .table tr.hover:nth-child(2n):hover { --tw-bg-opac=
 ity: 1; background-color: var(--fallback-b2,oklch(var(--b2)/var(--tw-bg-opa=
 city))); }
@@ -2682,15 +2754,15 @@ color: oklch(var(--btn-color, var(--b2)) / var(--tw-border-opacity)); paddi=
 ng-left: 1rem; padding-right: 1rem; text-align: center; font-size: 0.875rem=
 ; line-height: 1em; gap: 0.5rem; font-weight: 600; text-decoration-line: no=
 ne; transition-duration: 0.2s; transition-timing-function: cubic-bezier(0, =
-0, 0.2, 1); border-width: var(--border-btn, 1px); animation: button-pop var=
-(--animation-btn, .25s) ease-out; transition-property: color, background-co=
-lor, border-color, opacity, box-shadow, transform; --tw-text-opacity: 1; co=
-lor: var(--fallback-bc,oklch(var(--bc)/var(--tw-text-opacity))); --tw-shado=
-w: 0 1px 2px 0 rgb(0 0 0 / .05); --tw-shadow-colored: 0 1px 2px 0 var(--tw-=
-shadow-color); box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),var(--tw=
--ring-shadow, 0 0 #0000),var(--tw-shadow); outline-color: var(--fallback-bc=
-,oklch(var(--bc)/1)); background-color: oklch(var(--btn-color, var(--b2)) /=
- var(--tw-bg-opacity)); --tw-bg-opacity: 1; --tw-border-opacity: 1; }
+0, 0.2, 1); border-width: var(--border-btn, 1px); transition-property: colo=
+r, background-color, border-color, opacity, box-shadow, transform; --tw-tex=
+t-opacity: 1; color: var(--fallback-bc,oklch(var(--bc)/var(--tw-text-opacit=
+y))); --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / .05); --tw-shadow-colored: 0 1px=
+ 2px 0 var(--tw-shadow-color); box-shadow: var(--tw-ring-offset-shadow, 0 0=
+ #0000),var(--tw-ring-shadow, 0 0 #0000),var(--tw-shadow); outline-color: v=
+ar(--fallback-bc,oklch(var(--bc)/1)); background-color: oklch(var(--btn-col=
+or, var(--b2)) / var(--tw-bg-opacity)); --tw-bg-opacity: 1; --tw-border-opa=
+city: 1; }
 
 .btn-disabled, .btn[disabled], .btn:disabled { pointer-events: none; }
 
@@ -2789,13 +2861,13 @@ var(--b2)) / var(--tw-bg-opacity, 1)) 90%,black); border-color: color-mix(i=
 n oklab,oklch(var(--btn-color, var(--b2)) / var(--tw-border-opacity, 1)) 90=
 %,black); }
 }
-  @supports not (color: oklch(0 0 0)) {
+  @supports not (color: oklch(0% 0 0)) {
   .btn:hover { background-color: var(--btn-color, var(--fallback-b2)); bord=
 er-color: var(--btn-color, var(--fallback-b2)); }
 }
   .btn.glass:hover { --glass-opacity: 25%; --glass-border-opacity: 15%; }
   .btn-ghost:hover { border-color: transparent; }
-  @supports (color: oklch(0 0 0)) {
+  @supports (color: oklch(0% 0 0)) {
   .btn-ghost:hover { background-color: var(--fallback-bc,oklch(var(--bc)/.2=
 )); }
 }
@@ -2863,15 +2935,15 @@ dio"]:checked):hover { background-color: color-mix(in oklab,var(--fallback-=
 p,oklch(var(--p)/1)) 90%,black); border-color: color-mix(in oklab,var(--fal=
 lback-p,oklch(var(--p)/1)) 90%,black); }
 }
-  :where(.menu li:not(.menu-title):not(.disabled) > :not(ul):not(details):n=
-ot(.menu-title)):not(.active):hover, :where(.menu li:not(.menu-title):not(.=
-disabled) > details > summary:not(.menu-title)):not(.active):hover { cursor=
-: pointer; outline: transparent solid 2px; outline-offset: 2px; }
-  @supports (color: oklch(0 0 0)) {
-  :where(.menu li:not(.menu-title):not(.disabled) > :not(ul):not(details):n=
-ot(.menu-title)):not(.active):hover, :where(.menu li:not(.menu-title):not(.=
-disabled) > details > summary:not(.menu-title)):not(.active):hover { backgr=
-ound-color: var(--fallback-bc,oklch(var(--bc)/.1)); }
+  :where(.menu li:not(.menu-title, .disabled) > :not(ul, details, .menu-tit=
+le)):not(.active, .btn):hover, :where(.menu li:not(.menu-title, .disabled) =
+> details > summary:not(.menu-title)):not(.active, .btn):hover { cursor: po=
+inter; outline: transparent solid 2px; outline-offset: 2px; }
+  @supports (color: oklch(0% 0 0)) {
+  :where(.menu li:not(.menu-title, .disabled) > :not(ul, details, .menu-tit=
+le)):not(.active, .btn):hover, :where(.menu li:not(.menu-title, .disabled) =
+> details > summary:not(.menu-title)):not(.active, .btn):hover { background=
+-color: var(--fallback-bc,oklch(var(--bc)/.1)); }
 }
 }
 
@@ -2898,6 +2970,10 @@ over; background-position: center center; }
  var(--rounded-btn, .5rem); border-width: 1px; border-color: transparent; -=
 -tw-bg-opacity: 1; background-color: var(--fallback-b1,oklch(var(--b1)/var(=
 --tw-bg-opacity))); }
+
+.input[type=3D"number"]::-webkit-inner-spin-button, .input-md[type=3D"numbe=
+r"]::-webkit-inner-spin-button { margin-top: -1rem; margin-bottom: -1rem; m=
+argin-inline-end: -1rem; }
 
 .join { display: inline-flex; align-items: stretch; border-radius: var(--ro=
 unded-btn, .5rem); }
@@ -2940,8 +3016,8 @@ er-end-end-radius: inherit; }
 
 .link { cursor: pointer; text-decoration-line: underline; }
 
-.mask { -webkit-mask-size: contain; -webkit-mask-repeat: no-repeat; -webkit=
--mask-position: center center; }
+.mask { mask-size: contain; mask-repeat: no-repeat; mask-position: center c=
+enter; }
 
 .menu { display: flex; flex-flow: column wrap; font-size: 0.875rem; line-he=
 ight: 1.25rem; padding: 0.5rem; }
@@ -2949,11 +3025,11 @@ ight: 1.25rem; padding: 0.5rem; }
 .menu :where(li ul) { position: relative; white-space: nowrap; margin-inlin=
 e-start: 1rem; padding-inline-start: 0.5rem; }
 
-.menu :where(li:not(.menu-title) > :not(ul):not(details):not(.menu-title)),=
- .menu :where(li:not(.menu-title) > details > summary:not(.menu-title)) { d=
-isplay: grid; grid-auto-flow: column; align-content: flex-start; align-item=
-s: center; gap: 0.5rem; grid-auto-columns: minmax(auto, max-content) auto m=
-ax-content; user-select: none; }
+.menu :where(li:not(.menu-title) > :not(ul, details, .menu-title, .btn)), .=
+menu :where(li:not(.menu-title) > details > summary:not(.menu-title)) { dis=
+play: grid; grid-auto-flow: column; align-content: flex-start; align-items:=
+ center; gap: 0.5rem; grid-auto-columns: minmax(auto, max-content) auto max=
+-content; user-select: none; }
 
 .menu li.disabled { cursor: not-allowed; user-select: none; color: var(--fa=
 llback-bc,oklch(var(--bc)/.3)); }
@@ -2975,20 +3051,20 @@ ansition-property: transform, opacity, visibility; overflow-y: hidden; }
 
 :where(.modal) { align-items: center; }
 
-.modal-box { max-height: calc(100vh - 5em); grid-column-start: 1; grid-row-=
-start: 1; width: 91.6667%; max-width: 32rem; --tw-scale-x: .9; --tw-scale-y=
-: .9; transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rot=
-ate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX=
-(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); border-bottom-right-radius: =
-var(--rounded-box, 1rem); border-bottom-left-radius: var(--rounded-box, 1re=
-m); border-top-left-radius: var(--rounded-box, 1rem); border-top-right-radi=
-us: var(--rounded-box, 1rem); --tw-bg-opacity: 1; background-color: var(--f=
-allback-b1,oklch(var(--b1)/var(--tw-bg-opacity))); padding: 1.5rem; transit=
-ion-property: color, background-color, border-color, text-decoration-color,=
- fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -we=
-bkit-backdrop-filter; transition-timing-function: cubic-bezier(0, 0, 0.2, 1=
-); transition-duration: 0.2s; box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px=
- -12px; overflow-y: auto; overscroll-behavior: contain; }
+.modal-box { max-height: calc(-5em + 100vh); grid-column-start: 1; grid-row=
+-start: 1; width: 91.6667%; max-width: 32rem; --tw-scale-x: .9; --tw-scale-=
+y: .9; transform: translate(var(--tw-translate-x),var(--tw-translate-y)) ro=
+tate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scale=
+X(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); border-bottom-right-radius:=
+ var(--rounded-box, 1rem); border-bottom-left-radius: var(--rounded-box, 1r=
+em); border-top-left-radius: var(--rounded-box, 1rem); border-top-right-rad=
+ius: var(--rounded-box, 1rem); --tw-bg-opacity: 1; background-color: var(--=
+fallback-b1,oklch(var(--b1)/var(--tw-bg-opacity))); padding: 1.5rem; transi=
+tion-property: color, background-color, border-color, text-decoration-color=
+, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -w=
+ebkit-backdrop-filter; transition-timing-function: cubic-bezier(0, 0, 0.2, =
+1); transition-duration: 0.2s; box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50p=
+x -12px; overflow-y: auto; overscroll-behavior: contain; }
 
 .modal-open, .modal:target, .modal-toggle:checked + .modal, .modal[open] { =
 pointer-events: auto; visibility: visible; opacity: 1; }
@@ -2997,12 +3073,13 @@ pointer-events: auto; visibility: visible; opacity: 1; }
 d; }
 
 :root:has(:is(.modal-open, .modal:target, .modal-toggle:checked + .modal, .=
-modal[open])) { overflow: hidden; }
+modal[open])) { overflow: hidden; scrollbar-gutter: stable; }
 
 .navbar { display: flex; align-items: center; padding: var(--navbar-padding=
 , .5rem); min-height: 4rem; width: 100%; }
 
-:where(.navbar > *) { display: inline-flex; align-items: center; }
+:where(.navbar > :not(script, style)) { display: inline-flex; align-items: =
+center; }
 
 .stats { display: inline-grid; border-radius: var(--rounded-box, 1rem); --t=
 w-bg-opacity: 1; background-color: var(--fallback-b1,oklch(var(--b1)/var(--=
@@ -3051,10 +3128,14 @@ lch(var(--b1)/var(--tw-border-opacity))); }
 
 .btm-nav > * .label { font-size: 1rem; line-height: 1.5rem; }
 
+@media (prefers-reduced-motion: no-preference) {
+  .btn { animation: button-pop var(--animation-btn, .25s) ease-out; }
+}
+
 .btn:active:hover, .btn:active:focus { animation: 0s ease-out 0s 1 normal n=
 one running button-pop; transform: scale(var(--btn-focus-scale, .97)); }
 
-@supports not (color: oklch(0 0 0)) {
+@supports not (color: oklch(0% 0 0)) {
   .btn { background-color: var(--btn-color, var(--fallback-b2)); border-col=
 or: var(--btn-color, var(--fallback-b2)); }
 }
@@ -3204,14 +3285,18 @@ ar(--fallback-b2,oklch(var(--b2)/var(--tw-border-opacity))); }
 .checkbox:focus-visible { outline-style: solid; outline-width: 2px; outline=
 -offset: 2px; outline-color: var(--fallback-bc,oklch(var(--bc)/1)); }
 
-.checkbox:checked, .checkbox[checked=3D"true"], .checkbox[aria-checked=3D"t=
-rue"] { background-repeat: no-repeat; animation: checkmark var(--animation-=
-input, .2s) ease-out; background-color: var(--chkbg); background-image: lin=
-ear-gradient(-45deg,transparent 65%,var(--chkbg) 65.99%),linear-gradient(45=
-deg,transparent 75%,var(--chkbg) 75.99%),linear-gradient(-45deg,var(--chkbg=
-) 40%,transparent 40.99%),linear-gradient(45deg,var(--chkbg) 30%,var(--chkf=
-g) 30.99%,var(--chkfg) 40%,transparent 40.99%),linear-gradient(-45deg,var(-=
--chkfg) 50%,var(--chkbg) 50.99%); }
+.checkbox:disabled { border-width: 0px; cursor: not-allowed; border-color: =
+transparent; --tw-bg-opacity: 1; background-color: var(--fallback-bc,oklch(=
+var(--bc)/var(--tw-bg-opacity))); opacity: 0.2; }
+
+.checkbox:checked, .checkbox[aria-checked=3D"true"] { background-repeat: no=
+-repeat; animation: checkmark var(--animation-input, .2s) ease-out; backgro=
+und-color: var(--chkbg); background-image: linear-gradient(-45deg,transpare=
+nt 65%,var(--chkbg) 65.99%),linear-gradient(45deg,transparent 75%,var(--chk=
+bg) 75.99%),linear-gradient(-45deg,var(--chkbg) 40%,transparent 40.99%),lin=
+ear-gradient(45deg,var(--chkbg) 30%,var(--chkfg) 30.99%,var(--chkfg) 40%,tr=
+ansparent 40.99%),linear-gradient(-45deg,var(--chkfg) 50%,var(--chkbg) 50.9=
+9%); }
 
 .checkbox:indeterminate { --tw-bg-opacity: 1; background-color: var(--fallb=
 ack-bc,oklch(var(--bc)/var(--tw-bg-opacity))); background-repeat: no-repeat=
@@ -3219,10 +3304,6 @@ ack-bc,oklch(var(--bc)/var(--tw-bg-opacity))); background-repeat: no-repeat=
 ge: linear-gradient(90deg,transparent 80%,var(--chkbg) 80%),linear-gradient=
 (-90deg,transparent 80%,var(--chkbg) 80%),linear-gradient(0deg,var(--chkbg)=
  43%,var(--chkfg) 43%,var(--chkfg) 57%,var(--chkbg) 57%); }
-
-.checkbox:disabled { cursor: not-allowed; border-color: transparent; --tw-b=
-g-opacity: 1; background-color: var(--fallback-bc,oklch(var(--bc)/var(--tw-=
-bg-opacity))); opacity: 0.2; }
 
 @keyframes checkmark {=20
   0% { background-position-y: 5px; }
@@ -3251,8 +3332,8 @@ deg; transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rota=
 te(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(=
 var(--tw-scale-x)) scaleY(var(--tw-scale-y)); transition-property: all; tra=
 nsition-timing-function: cubic-bezier(0, 0, 0.2, 1); transition-duration: 0=
-.2s; top: 50%; inset-inline-end: 1.4rem; content: ""; transform-origin: 75%=
- 75%; box-shadow: 2px 2px; pointer-events: none; }
+.2s; top: 1.9rem; inset-inline-end: 1.4rem; content: ""; transform-origin: =
+75% 75%; box-shadow: 2px 2px; pointer-events: none; }
 
 .collapse-plus > .collapse-title::after { position: absolute; display: bloc=
 k; height: 0.5rem; width: 0.5rem; transition-property: all; transition-timi=
@@ -3303,6 +3384,8 @@ ent: "=E2=88=92"; }
 
 .divider:not(:empty) { gap: 1rem; }
 
+.input input { --tw-bg-opacity: 1; background-color: transparent; }
+
 .input input:focus { outline: transparent solid 2px; outline-offset: 2px; }
 
 .input[list]::-webkit-calendar-picker-indicator { line-height: 1em; }
@@ -3314,15 +3397,18 @@ allback-bc,oklch(var(--bc)/.2)); outline-style: solid; outline-width: 2px; =
 outline-offset: 2px; outline-color: var(--fallback-bc,oklch(var(--bc)/.2));=
  }
 
-.input-disabled, .input:disabled, .input[disabled] { cursor: not-allowed; -=
--tw-border-opacity: 1; border-color: var(--fallback-b2,oklch(var(--b2)/var(=
---tw-border-opacity))); --tw-bg-opacity: 1; background-color: var(--fallbac=
-k-b2,oklch(var(--b2)/var(--tw-bg-opacity))); color: var(--fallback-bc,oklch=
-(var(--bc)/.4)); }
+.input:has(> input[disabled]), .input-disabled, .input:disabled, .input[dis=
+abled] { cursor: not-allowed; --tw-border-opacity: 1; border-color: var(--f=
+allback-b2,oklch(var(--b2)/var(--tw-border-opacity))); --tw-bg-opacity: 1; =
+background-color: var(--fallback-b2,oklch(var(--b2)/var(--tw-bg-opacity)));=
+ color: var(--fallback-bc,oklch(var(--bc)/.4)); }
 
-.input-disabled::placeholder, .input:disabled::placeholder, .input[disabled=
-]::placeholder { color: var(--fallback-bc,oklch(var(--bc)/var(--tw-placehol=
-der-opacity))); --tw-placeholder-opacity: .2; }
+.input:has(> input[disabled])::placeholder, .input-disabled::placeholder, .=
+input:disabled::placeholder, .input[disabled]::placeholder { color: var(--f=
+allback-bc,oklch(var(--bc)/var(--tw-placeholder-opacity))); --tw-placeholde=
+r-opacity: .2; }
+
+.input:has(> input[disabled]) > input[disabled] { cursor: not-allowed; }
 
 .input::-webkit-date-and-time-value { text-align: inherit; }
 
@@ -3334,10 +3420,10 @@ argin-inline-start: -1px; }
 .link:focus-visible { outline: currentcolor solid 2px; outline-offset: 2px;=
  }
 
-.mask-squircle { -webkit-mask-image: url("data:image/svg+xml,%3csvg width=
-=3D'200' height=3D'200' xmlns=3D'http://www.w3.org/2000/svg'%3e%3cpath d=3D=
-'M100 0C20 0 0 20 0 100s20 100 100 100 100-20 100-100S180 0 100 0Z'/%3e%3c/=
-svg%3e"); }
+.mask-squircle { mask-image: url("data:image/svg+xml,%3csvg width=3D'200' h=
+eight=3D'200' xmlns=3D'http://www.w3.org/2000/svg'%3e%3cpath d=3D'M100 0C20=
+ 0 0 20 0 100s20 100 100 100 100-20 100-100S180 0 100 0Z'/%3e%3c/svg%3e"); =
+}
 
 :where(.menu li:empty) { --tw-bg-opacity: 1; background-color: var(--fallba=
 ck-bc,oklch(var(--bc)/var(--tw-bg-opacity))); opacity: 0.1; margin: 0.5rem =
@@ -3348,33 +3434,33 @@ line-start: 0px; top: 0.75rem; width: 1px; --tw-bg-opacity: 1; background-c=
 olor: var(--fallback-bc,oklch(var(--bc)/var(--tw-bg-opacity))); opacity: 0.=
 1; content: ""; }
 
-.menu :where(li:not(.menu-title) > :not(ul):not(details):not(.menu-title)),=
- .menu :where(li:not(.menu-title) > details > summary:not(.menu-title)) { b=
-order-radius: var(--rounded-btn, .5rem); padding: 0.5rem 1rem; text-align: =
-start; transition-property: color, background-color, border-color, text-dec=
-oration-color, fill, stroke, opacity, box-shadow, transform, filter, backdr=
-op-filter, -webkit-backdrop-filter; transition-timing-function: cubic-bezie=
-r(0, 0, 0.2, 1); transition-duration: 0.2s; text-wrap: balance; }
+.menu :where(li:not(.menu-title) > :not(ul, details, .menu-title, .btn)), .=
+menu :where(li:not(.menu-title) > details > summary:not(.menu-title)) { bor=
+der-radius: var(--rounded-btn, .5rem); padding: 0.5rem 1rem; text-align: st=
+art; transition-property: color, background-color, border-color, text-decor=
+ation-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop=
+-filter, -webkit-backdrop-filter; transition-timing-function: cubic-bezier(=
+0, 0, 0.2, 1); transition-duration: 0.2s; text-wrap: balance; }
 
-:where(.menu li:not(.menu-title):not(.disabled) > :not(ul):not(details):not=
-(.menu-title)):not(summary):not(.active).focus, :where(.menu li:not(.menu-t=
-itle):not(.disabled) > :not(ul):not(details):not(.menu-title)):not(summary)=
-:not(.active):focus, :where(.menu li:not(.menu-title):not(.disabled) > :not=
-(ul):not(details):not(.menu-title)):is(summary):not(.active):focus-visible,=
- :where(.menu li:not(.menu-title):not(.disabled) > details > summary:not(.m=
-enu-title)):not(summary):not(.active).focus, :where(.menu li:not(.menu-titl=
-e):not(.disabled) > details > summary:not(.menu-title)):not(summary):not(.a=
-ctive):focus, :where(.menu li:not(.menu-title):not(.disabled) > details > s=
-ummary:not(.menu-title)):is(summary):not(.active):focus-visible { cursor: p=
-ointer; background-color: var(--fallback-bc,oklch(var(--bc)/.1)); --tw-text=
--opacity: 1; color: var(--fallback-bc,oklch(var(--bc)/var(--tw-text-opacity=
-))); outline: transparent solid 2px; outline-offset: 2px; }
+:where(.menu li:not(.menu-title, .disabled) > :not(ul, details, .menu-title=
+)):not(summary, .active, .btn).focus, :where(.menu li:not(.menu-title, .dis=
+abled) > :not(ul, details, .menu-title)):not(summary, .active, .btn):focus,=
+ :where(.menu li:not(.menu-title, .disabled) > :not(ul, details, .menu-titl=
+e)):is(summary):not(.active, .btn):focus-visible, :where(.menu li:not(.menu=
+-title, .disabled) > details > summary:not(.menu-title)):not(summary, .acti=
+ve, .btn).focus, :where(.menu li:not(.menu-title, .disabled) > details > su=
+mmary:not(.menu-title)):not(summary, .active, .btn):focus, :where(.menu li:=
+not(.menu-title, .disabled) > details > summary:not(.menu-title)):is(summar=
+y):not(.active, .btn):focus-visible { cursor: pointer; background-color: va=
+r(--fallback-bc,oklch(var(--bc)/.1)); --tw-text-opacity: 1; color: var(--fa=
+llback-bc,oklch(var(--bc)/var(--tw-text-opacity))); outline: transparent so=
+lid 2px; outline-offset: 2px; }
 
-.menu li > :not(ul):not(.menu-title):not(details):active, .menu li > :not(u=
-l):not(.menu-title):not(details).active, .menu li > details > summary:activ=
-e { --tw-bg-opacity: 1; background-color: var(--fallback-n,oklch(var(--n)/v=
-ar(--tw-bg-opacity))); --tw-text-opacity: 1; color: var(--fallback-nc,oklch=
-(var(--nc)/var(--tw-text-opacity))); }
+.menu li > :not(ul, .menu-title, details, .btn):active, .menu li > :not(ul,=
+ .menu-title, details, .btn).active, .menu li > details > summary:active { =
+--tw-bg-opacity: 1; background-color: var(--fallback-n,oklch(var(--n)/var(-=
+-tw-bg-opacity))); --tw-text-opacity: 1; color: var(--fallback-nc,oklch(var=
+(--nc)/var(--tw-text-opacity))); }
 
 .menu :where(li > details > summary)::-webkit-details-marker { display: non=
 e; }
@@ -4109,83 +4195,83 @@ nsform: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(-=
 
 .hover\:cursor-pointer:hover { cursor: pointer; }
 
-:is(.dark .dark\:border-blue-700) { --tw-border-opacity: 1; border-color: r=
-gb(29 78 216 / var(--tw-border-opacity)); }
+.dark\:border-blue-700:is(.dark *) { --tw-border-opacity: 1; border-color: =
+rgb(29 78 216 / var(--tw-border-opacity)); }
 
-:is(.dark .dark\:border-gray-700) { --tw-border-opacity: 1; border-color: r=
-gb(55 65 81 / var(--tw-border-opacity)); }
+.dark\:border-gray-700:is(.dark *) { --tw-border-opacity: 1; border-color: =
+rgb(55 65 81 / var(--tw-border-opacity)); }
 
-:is(.dark .dark\:border-gray-900) { --tw-border-opacity: 1; border-color: r=
-gb(17 24 39 / var(--tw-border-opacity)); }
+.dark\:border-gray-900:is(.dark *) { --tw-border-opacity: 1; border-color: =
+rgb(17 24 39 / var(--tw-border-opacity)); }
 
-:is(.dark .dark\:border-green-700) { --tw-border-opacity: 1; border-color: =
-rgb(21 128 61 / var(--tw-border-opacity)); }
+.dark\:border-green-700:is(.dark *) { --tw-border-opacity: 1; border-color:=
+ rgb(21 128 61 / var(--tw-border-opacity)); }
 
-:is(.dark .dark\:bg-backend-800) { --tw-bg-opacity: 1; background-color: rg=
-b(154 45 18 / var(--tw-bg-opacity)); }
+.dark\:bg-backend-800:is(.dark *) { --tw-bg-opacity: 1; background-color: r=
+gb(154 45 18 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-base-100) { --tw-bg-opacity: 1; background-color: var(-=
--fallback-b1,oklch(var(--b1)/var(--tw-bg-opacity))); }
+.dark\:bg-base-100:is(.dark *) { --tw-bg-opacity: 1; background-color: var(=
+--fallback-b1,oklch(var(--b1)/var(--tw-bg-opacity))); }
 
-:is(.dark .dark\:bg-base-300) { --tw-bg-opacity: 1; background-color: var(-=
--fallback-b3,oklch(var(--b3)/var(--tw-bg-opacity))); }
+.dark\:bg-base-300:is(.dark *) { --tw-bg-opacity: 1; background-color: var(=
+--fallback-b3,oklch(var(--b3)/var(--tw-bg-opacity))); }
 
-:is(.dark .dark\:bg-blue-800) { --tw-bg-opacity: 1; background-color: rgb(3=
-0 64 175 / var(--tw-bg-opacity)); }
+.dark\:bg-blue-800:is(.dark *) { --tw-bg-opacity: 1; background-color: rgb(=
+30 64 175 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-data-800) { --tw-bg-opacity: 1; background-color: rgb(7=
-4 96 131 / var(--tw-bg-opacity)); }
+.dark\:bg-data-800:is(.dark *) { --tw-bg-opacity: 1; background-color: rgb(=
+74 96 131 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-devops-800) { --tw-bg-opacity: 1; background-color: rgb=
-(60 69 54 / var(--tw-bg-opacity)); }
+.dark\:bg-devops-800:is(.dark *) { --tw-bg-opacity: 1; background-color: rg=
+b(60 69 54 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-frontend-800) { --tw-bg-opacity: 1; background-color: r=
-gb(116 64 56 / var(--tw-bg-opacity)); }
+.dark\:bg-frontend-800:is(.dark *) { --tw-bg-opacity: 1; background-color: =
+rgb(116 64 56 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-gray-700) { --tw-bg-opacity: 1; background-color: rgb(5=
-5 65 81 / var(--tw-bg-opacity)); }
+.dark\:bg-gray-700:is(.dark *) { --tw-bg-opacity: 1; background-color: rgb(=
+55 65 81 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-gray-800) { --tw-bg-opacity: 1; background-color: rgb(3=
-1 41 55 / var(--tw-bg-opacity)); }
+.dark\:bg-gray-800:is(.dark *) { --tw-bg-opacity: 1; background-color: rgb(=
+31 41 55 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-green-800) { --tw-bg-opacity: 1; background-color: rgb(=
-22 101 52 / var(--tw-bg-opacity)); }
+.dark\:bg-green-800:is(.dark *) { --tw-bg-opacity: 1; background-color: rgb=
+(22 101 52 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-indigo-800) { --tw-bg-opacity: 1; background-color: rgb=
-(55 48 163 / var(--tw-bg-opacity)); }
+.dark\:bg-indigo-800:is(.dark *) { --tw-bg-opacity: 1; background-color: rg=
+b(55 48 163 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-neutral-800) { --tw-bg-opacity: 1; background-color: rg=
-b(38 38 38 / var(--tw-bg-opacity)); }
+.dark\:bg-neutral-800:is(.dark *) { --tw-bg-opacity: 1; background-color: r=
+gb(38 38 38 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-pink-800) { --tw-bg-opacity: 1; background-color: rgb(1=
-57 23 77 / var(--tw-bg-opacity)); }
+.dark\:bg-pink-800:is(.dark *) { --tw-bg-opacity: 1; background-color: rgb(=
+157 23 77 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-purple-800) { --tw-bg-opacity: 1; background-color: rgb=
-(107 33 168 / var(--tw-bg-opacity)); }
+.dark\:bg-purple-800:is(.dark *) { --tw-bg-opacity: 1; background-color: rg=
+b(107 33 168 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-red-800) { --tw-bg-opacity: 1; background-color: rgb(15=
-3 27 27 / var(--tw-bg-opacity)); }
+.dark\:bg-red-800:is(.dark *) { --tw-bg-opacity: 1; background-color: rgb(1=
+53 27 27 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-stone-600) { --tw-bg-opacity: 1; background-color: rgb(=
-87 83 78 / var(--tw-bg-opacity)); }
+.dark\:bg-stone-600:is(.dark *) { --tw-bg-opacity: 1; background-color: rgb=
+(87 83 78 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-system-800) { --tw-bg-opacity: 1; background-color: rgb=
-(91 33 182 / var(--tw-bg-opacity)); }
+.dark\:bg-system-800:is(.dark *) { --tw-bg-opacity: 1; background-color: rg=
+b(91 33 182 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:bg-yellow-800) { --tw-bg-opacity: 1; background-color: rgb=
-(133 77 14 / var(--tw-bg-opacity)); }
+.dark\:bg-yellow-800:is(.dark *) { --tw-bg-opacity: 1; background-color: rg=
+b(133 77 14 / var(--tw-bg-opacity)); }
 
-:is(.dark .dark\:text-gray-200) { --tw-text-opacity: 1; color: rgb(229 231 =
-235 / var(--tw-text-opacity)); }
+.dark\:text-gray-200:is(.dark *) { --tw-text-opacity: 1; color: rgb(229 231=
+ 235 / var(--tw-text-opacity)); }
 
-:is(.dark .dark\:text-gray-400) { --tw-text-opacity: 1; color: rgb(156 163 =
-175 / var(--tw-text-opacity)); }
+.dark\:text-gray-400:is(.dark *) { --tw-text-opacity: 1; color: rgb(156 163=
+ 175 / var(--tw-text-opacity)); }
 
-:is(.dark .dark\:text-gray-500) { --tw-text-opacity: 1; color: rgb(107 114 =
-128 / var(--tw-text-opacity)); }
+.dark\:text-gray-500:is(.dark *) { --tw-text-opacity: 1; color: rgb(107 114=
+ 128 / var(--tw-text-opacity)); }
 
-:is(.dark .dark\:text-white) { --tw-text-opacity: 1; color: rgb(255 255 255=
- / var(--tw-text-opacity)); }
+.dark\:text-white:is(.dark *) { --tw-text-opacity: 1; color: rgb(255 255 25=
+5 / var(--tw-text-opacity)); }
 
 @media (min-width: 640px) {
   .sm\:mb-0 { margin-bottom: 0px; }
@@ -4209,109 +4295,109 @@ b(38 38 38 / var(--tw-bg-opacity)); }
   .sm\:pb-2 { padding-bottom: 0.5rem; }
   .sm\:text-left { text-align: left; }
 }
-------MultipartBoundary--GX0HPsR2EP3dMhluITJYfya1sdlOb4ug7Qlpc9tCpK----
+------MultipartBoundary--lxKywbEuW11cvogVlJeiQQIm5RdMg6v915EGT5PcM4----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/_app/immutable/assets/HeadTags.MRTeinX4.css
+Content-Location: https://cv.bnei.dev/_app/immutable/assets/HeadTags.BNiNBiDP.css
 
 @charset "utf-8";
 
-.none.svelte-1cx5vnw { --tw-ring-opacity: 1; --tw-ring-color: var(--fallbac=
+.none.svelte-15y6h2k { --tw-ring-opacity: 1; --tw-ring-color: var(--fallbac=
 k-b2,oklch(var(--b2)/var(--tw-ring-opacity))); }
 
-.svelte-1cx5vnw:is(.dark .none) { --tw-ring-opacity: 1; --tw-ring-color: rg=
-b(107 114 128 / var(--tw-ring-opacity)); }
+.none.svelte-15y6h2k:is(.dark *) { --tw-ring-opacity: 1; --tw-ring-color: r=
+gb(107 114 128 / var(--tw-ring-opacity)); }
 
-.gray.svelte-1cx5vnw { --tw-ring-color: rgb(107 114 128 / .1); }
+.gray.svelte-15y6h2k { --tw-ring-color: rgb(107 114 128 / .1); }
 
-.red.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(254 202 202=
+.red.svelte-15y6h2k { --tw-bg-opacity: 1; background-color: rgb(254 202 202=
  / var(--tw-bg-opacity)); --tw-ring-color: rgb(239 68 68 / .1); }
 
-.svelte-1cx5vnw:is(.dark .red) { --tw-bg-opacity: 1; background-color: rgb(=
-153 27 27 / var(--tw-bg-opacity)); }
+.red.svelte-15y6h2k:is(.dark *) { --tw-bg-opacity: 1; background-color: rgb=
+(153 27 27 / var(--tw-bg-opacity)); }
 
-.yellow.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(254 240 =
+.yellow.svelte-15y6h2k { --tw-bg-opacity: 1; background-color: rgb(254 240 =
 138 / var(--tw-bg-opacity)); --tw-ring-color: rgb(234 179 8 / .1); }
 
-.svelte-1cx5vnw:is(.dark .yellow) { --tw-bg-opacity: 1; background-color: r=
-gb(133 77 14 / var(--tw-bg-opacity)); }
+.yellow.svelte-15y6h2k:is(.dark *) { --tw-bg-opacity: 1; background-color: =
+rgb(133 77 14 / var(--tw-bg-opacity)); }
 
-.green.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(187 247 2=
+.green.svelte-15y6h2k { --tw-bg-opacity: 1; background-color: rgb(187 247 2=
 08 / var(--tw-bg-opacity)); --tw-ring-color: rgb(34 197 94 / .1); }
 
-.svelte-1cx5vnw:is(.dark .green) { --tw-bg-opacity: 1; background-color: rg=
-b(22 101 52 / var(--tw-bg-opacity)); }
+.green.svelte-15y6h2k:is(.dark *) { --tw-bg-opacity: 1; background-color: r=
+gb(22 101 52 / var(--tw-bg-opacity)); }
 
-.blue.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(191 219 25=
+.blue.svelte-15y6h2k { --tw-bg-opacity: 1; background-color: rgb(191 219 25=
 4 / var(--tw-bg-opacity)); --tw-ring-color: rgb(59 130 246 / .1); }
 
-.svelte-1cx5vnw:is(.dark .blue) { --tw-bg-opacity: 1; background-color: rgb=
-(30 64 175 / var(--tw-bg-opacity)); }
+.blue.svelte-15y6h2k:is(.dark *) { --tw-bg-opacity: 1; background-color: rg=
+b(30 64 175 / var(--tw-bg-opacity)); }
 
-.indigo.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(199 210 =
+.indigo.svelte-15y6h2k { --tw-bg-opacity: 1; background-color: rgb(199 210 =
 254 / var(--tw-bg-opacity)); --tw-ring-color: rgb(99 102 241 / .1); }
 
-.svelte-1cx5vnw:is(.dark .indigo) { --tw-bg-opacity: 1; background-color: r=
-gb(55 48 163 / var(--tw-bg-opacity)); }
+.indigo.svelte-15y6h2k:is(.dark *) { --tw-bg-opacity: 1; background-color: =
+rgb(55 48 163 / var(--tw-bg-opacity)); }
 
-.purple.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(233 213 =
+.purple.svelte-15y6h2k { --tw-bg-opacity: 1; background-color: rgb(233 213 =
 255 / var(--tw-bg-opacity)); --tw-ring-color: rgb(168 85 247 / .1); }
 
-.svelte-1cx5vnw:is(.dark .purple) { --tw-bg-opacity: 1; background-color: r=
-gb(107 33 168 / var(--tw-bg-opacity)); }
+.purple.svelte-15y6h2k:is(.dark *) { --tw-bg-opacity: 1; background-color: =
+rgb(107 33 168 / var(--tw-bg-opacity)); }
 
-.pink.svelte-1cx5vnw { --tw-bg-opacity: 1; background-color: rgb(251 207 23=
+.pink.svelte-15y6h2k { --tw-bg-opacity: 1; background-color: rgb(251 207 23=
 2 / var(--tw-bg-opacity)); --tw-ring-color: rgb(236 72 153 / .1); }
 
-.svelte-1cx5vnw:is(.dark .pink) { --tw-bg-opacity: 1; background-color: rgb=
-(157 23 77 / var(--tw-bg-opacity)); }
+.pink.svelte-15y6h2k:is(.dark *) { --tw-bg-opacity: 1; background-color: rg=
+b(157 23 77 / var(--tw-bg-opacity)); }
 
-.backend.svelte-116z7kx { --tw-bg-opacity: 1 !important; background-color: =
+.backend.svelte-1huzarr { --tw-bg-opacity: 1 !important; background-color: =
 rgb(254 210 170 / var(--tw-bg-opacity)) !important; --tw-ring-color: rgb(24=
 9 103 22 / .1) !important; }
 
-.svelte-116z7kx:is(.dark .backend) { --tw-bg-opacity: 1 !important; backgro=
-und-color: rgb(154 45 18 / var(--tw-bg-opacity)) !important; }
+.backend.svelte-1huzarr:is(.dark *) { --tw-bg-opacity: 1 !important; backgr=
+ound-color: rgb(154 45 18 / var(--tw-bg-opacity)) !important; }
 
-.frontend.svelte-116z7kx { --tw-bg-opacity: 1 !important; background-color:=
+.frontend.svelte-1huzarr { --tw-bg-opacity: 1 !important; background-color:=
  rgb(232 212 198 / var(--tw-bg-opacity)) !important; --tw-ring-color: rgb(1=
 85 115 86 / .1) !important; }
 
-.svelte-116z7kx:is(.dark .frontend) { --tw-bg-opacity: 1 !important; backgr=
-ound-color: rgb(116 64 56 / var(--tw-bg-opacity)) !important; }
+.frontend.svelte-1huzarr:is(.dark *) { --tw-bg-opacity: 1 !important; backg=
+round-color: rgb(116 64 56 / var(--tw-bg-opacity)) !important; }
 
-.data.svelte-116z7kx { --tw-bg-opacity: 1 !important; background-color: rgb=
+.data.svelte-1huzarr { --tw-bg-opacity: 1 !important; background-color: rgb=
 (210 225 235 / var(--tw-bg-opacity)) !important; --tw-ring-color: rgb(120 1=
 58 191 / .1) !important; }
 
-.svelte-116z7kx:is(.dark .data) { --tw-bg-opacity: 1 !important; background=
--color: rgb(74 96 131 / var(--tw-bg-opacity)) !important; }
+.data.svelte-1huzarr:is(.dark *) { --tw-bg-opacity: 1 !important; backgroun=
+d-color: rgb(74 96 131 / var(--tw-bg-opacity)) !important; }
 
-.system.svelte-116z7kx { --tw-bg-opacity: 1 !important; background-color: r=
+.system.svelte-1huzarr { --tw-bg-opacity: 1 !important; background-color: r=
 gb(221 214 254 / var(--tw-bg-opacity)) !important; --tw-ring-color: rgb(139=
  92 246 / .1) !important; }
 
-.svelte-116z7kx:is(.dark .system) { --tw-bg-opacity: 1 !important; backgrou=
-nd-color: rgb(91 33 182 / var(--tw-bg-opacity)) !important; }
+.system.svelte-1huzarr:is(.dark *) { --tw-bg-opacity: 1 !important; backgro=
+und-color: rgb(91 33 182 / var(--tw-bg-opacity)) !important; }
 
-.devops.svelte-116z7kx { --tw-bg-opacity: 1 !important; background-color: r=
+.devops.svelte-1huzarr { --tw-bg-opacity: 1 !important; background-color: r=
 gb(205 213 198 / var(--tw-bg-opacity)) !important; --tw-ring-color: rgb(114=
  131 100 / .1) !important; }
 
-.svelte-116z7kx:is(.dark .devops) { --tw-bg-opacity: 1 !important; backgrou=
-nd-color: rgb(60 69 54 / var(--tw-bg-opacity)) !important; }
+.devops.svelte-1huzarr:is(.dark *) { --tw-bg-opacity: 1 !important; backgro=
+und-color: rgb(60 69 54 / var(--tw-bg-opacity)) !important; }
 
-.default.svelte-116z7kx { --tw-bg-opacity: 1; background-color: rgb(229 231=
+.default.svelte-1huzarr { --tw-bg-opacity: 1; background-color: rgb(229 231=
  235 / var(--tw-bg-opacity)); --tw-ring-color: rgb(107 114 128 / .1); }
 
-.svelte-116z7kx:is(.dark .default) { --tw-bg-opacity: 1; background-color: =
-rgb(31 41 55 / var(--tw-bg-opacity)); }
+.default.svelte-1huzarr:is(.dark *) { --tw-bg-opacity: 1; background-color:=
+ rgb(31 41 55 / var(--tw-bg-opacity)); }
 
 @media (min-width: 640px) {
   .desktop-grid.svelte-r3efyy { display: grid; grid-template: "skill skill"=
  min-content "education experience" / 30% auto; gap: 0px; }
 }
-------MultipartBoundary--GX0HPsR2EP3dMhluITJYfya1sdlOb4ug7Qlpc9tCpK----
+------MultipartBoundary--lxKywbEuW11cvogVlJeiQQIm5RdMg6v915EGT5PcM4----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://voconsteroid.com/voconsteroidLogoNT384.png
@@ -4461,7 +4547,7 @@ AABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABG
 EQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAA
 YBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYFEURf8P1Rxy/6Nu9+AAAAAASUVORK5CYII=
 
-------MultipartBoundary--GX0HPsR2EP3dMhluITJYfya1sdlOb4ug7Qlpc9tCpK----
+------MultipartBoundary--lxKywbEuW11cvogVlJeiQQIm5RdMg6v915EGT5PcM4----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/boxing-glove.svg
@@ -4483,7 +4569,7 @@ Content-Location: https://cv.bnei.dev/boxing-glove.svg
 333c0 .92-1.221 1.208-2.326 1.208h-5C15.57 34 15 33.712 15 32.792v-3.333c0-=
 .921.57-1.459 1.674-1.459h5z"/>
 </svg>
-------MultipartBoundary--GX0HPsR2EP3dMhluITJYfya1sdlOb4ug7Qlpc9tCpK----
+------MultipartBoundary--lxKywbEuW11cvogVlJeiQQIm5RdMg6v915EGT5PcM4----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cv.bnei.dev/reading.svg
@@ -4500,7 +4586,7 @@ Content-Location: https://cv.bnei.dev/reading.svg
 3-3-3z"/>
     </g>
 </svg>
-------MultipartBoundary--GX0HPsR2EP3dMhluITJYfya1sdlOb4ug7Qlpc9tCpK----
+------MultipartBoundary--lxKywbEuW11cvogVlJeiQQIm5RdMg6v915EGT5PcM4----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://cv.bnei.dev/strategy.png
@@ -4867,7 +4953,7 @@ FqIAAADQQhQAAABaiAIAAEALUQAAAGghCgAAAC1EAQAAoIUoAAAAtBAFAACAFqIAAADQQhQAAABa
 KJL0R+sQAABguFxVVdYZAADAkLEFAABAC1EAAABoIQoAAAAt9F9LL9PzoI2q/QAAAABJRU5ErkJg
 gg==
 
-------MultipartBoundary--GX0HPsR2EP3dMhluITJYfya1sdlOb4ug7Qlpc9tCpK----
+------MultipartBoundary--lxKywbEuW11cvogVlJeiQQIm5RdMg6v915EGT5PcM4----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://cv.bnei.dev/harmony.png
@@ -5660,4 +5746,4 @@ owdgNNkCABdQC1QaPRAhhBAJsQHoDzQbPRAjyQoANAHnksT1oIUQIonsB84jySd/kADgK+uAmqN/
 CyGE6JxqgWpgvdEDMQPZAmjLAVwCTAIGArmANIwXQghragV2AquBmag5X0l99O9Y/weMQl/eslRo
 8gAAAABJRU5ErkJggg==
 
-------MultipartBoundary--GX0HPsR2EP3dMhluITJYfya1sdlOb4ug7Qlpc9tCpK------
+------MultipartBoundary--lxKywbEuW11cvogVlJeiQQIm5RdMg6v915EGT5PcM4------
