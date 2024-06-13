@@ -1,5 +1,12 @@
 
 
+## [0.12.1](https://github.com/MohammadBnei/cv-maker/compare/0.12.0...0.12.1) (2024-06-13)
+
+
+### Bug Fixes
+
+* **pdf:** updated pdf generation ([7a94a23](https://github.com/MohammadBnei/cv-maker/commit/7a94a236940c6c3e3e5fe7b6dd6a6fc6dbecdd77))
+
 # [0.12.0](https://github.com/MohammadBnei/cv-maker/compare/0.11.2...0.12.0) (2024-05-29)
 
 
