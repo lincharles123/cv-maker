@@ -43,6 +43,7 @@ const saveToPdf = async (page, { en, full } = { en: false, full: false }) => {
 	await page.pdf({
 		path: fileName,
 		format: 'A4',
+		scale: 0.6,
 		pageRanges: '1',
 		printBackground: true
 	});
