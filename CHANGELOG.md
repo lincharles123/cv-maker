@@ -1,5 +1,12 @@
 
 
+## [0.12.2](https://github.com/MohammadBnei/cv-maker/compare/0.12.1...0.12.2) (2024-06-13)
+
+
+### Bug Fixes
+
+* **pdf:** setting scale back to 0.6 ([af08e6f](https://github.com/MohammadBnei/cv-maker/commit/af08e6f7ae62d9941d73b4940e59fb929d542b84))
+
 ## [0.12.1](https://github.com/MohammadBnei/cv-maker/compare/0.12.0...0.12.1) (2024-06-13)
 
 
