@@ -39,13 +39,11 @@ const fs = require('fs');
  */
 const saveToPdf = async (page, { en, full } = { en: false, full: false }) => {
 	await page.goto(`${url}/${en ? 'en' : ''}?snapshot${full ? '&full' : ''}`);
-	await page.setViewport({ width: 1080, height: 1024 });
 	const fileName = path + '/' + (en ? 'cv-en' : 'cv') + (full ? '-full' : '') + '.pdf';
 	await page.pdf({
 		path: fileName,
-		scale: 0.55,
-		landscape: false,
-		// pageRanges: full ? '2' : 	'1',
+		format: 'A4',
+		pageRanges: '1',
 		printBackground: true
 	});
 };

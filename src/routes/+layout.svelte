@@ -27,7 +27,7 @@
 </script>
 
 {#key $page.url.pathname}
-	<div class="min-h-screen dark:bg-base-300" in:fly>
+	<div class="min-h-screen dark:bg-base-300" style="print-color-adjust: exact;" in:fly>
 		<slot />
 	</div>
 {/key}

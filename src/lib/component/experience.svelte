@@ -7,6 +7,7 @@
 		startDate: Date;
 		endDate: Date;
 		description: string;
+		hidden?: boolean;
 		missions: {
 			skills: ISkill[];
 			description: string;
@@ -50,7 +51,9 @@
 			? 'flex flex-col flex-shrink'
 			: ''} "
 	>
-		{#each experience.sort((a, b) => b.endDate.getTime() - a.endDate.getTime()) as item, i (item.enterprise)}
+		{#each experience
+			.filter(({ hidden }) => !hidden)
+			.sort((a, b) => b.endDate.getTime() - a.endDate.getTime()) as item, i (item.enterprise)}
 			<li class="ml-4 {i !== 0 ? 'mt-2' : ''} break-inside-avoid" transition:fly>
 				<div
 					class="absolute w-3 h-3 bg-gray-200 rounded-full mt-5 -left-[6.5px] border border-white dark:border-gray-900 dark:bg-gray-700"

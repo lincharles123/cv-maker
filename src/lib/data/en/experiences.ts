@@ -298,6 +298,7 @@ export const experience: IExperience[] = [
 	{
 		enterprise: 'Go-AI-cli',
 		position: 'Project Manager',
+		hidden: true,
 		startDate: new Date('2022-07-01'),
 		endDate: new Date('2030-07-01'),
 		description: `Created a CLI tool enabling seamless interaction with AI models for text, TTS, STT, image generation, and web scraping.  <a href="https://github.com/MohammadBnei/go-ai-cli" class="link ml-4">GitHub</a>`,
