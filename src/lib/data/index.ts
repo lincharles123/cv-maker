@@ -15,10 +15,10 @@ export const contactInfo: IContactInfo = {
 	name: 'Mohammad-Amine BANAEI',
 	nationality: 'Nationalité Française',
 	phone: '+33 6 61 93 90 82',
-	email: 'mohammadamine.banaei@pm.me',
+	email: 'mohammadamine.banaei@gmail.com',
 	links: [
 		{
-			url: 'https://bnei.dev',
+			url: 'https://blog.bnei.dev',
 			type: 'other'
 		},
 		{

@@ -246,7 +246,6 @@ export const experience: IExperience[] = [
 		enterprise: 'Voc On Steroid',
 		position: 'Entrepreneur',
 		startDate: new Date('2020-09-01'),
-		endDate: new Date('2030-07-01'),
 		description: `Création d'une application permettant d'enrichir son vocabulaire en apprenant de nouveaux mots.  <a href="https://voconsteroid.com" class="link ml-4"><img src="https://voconsteroid.com/voconsteroidLogoNT384.png" alt="voconsteroid" class="inline w-10" /> voconsteroid.com</a>`,
 		missions: [
 			{
@@ -302,7 +301,6 @@ export const experience: IExperience[] = [
 		position: 'Project Manager',
 		hidden: true,
 		startDate: new Date('2022-07-01'),
-		endDate: new Date('2030-07-01'),
 		description: `Création d'un outil CLI permettant une interaction fluide avec différents modèles d'IA pour de la génération de texte, d'image, TTS, STT, et scraping web.  <a href="https://github.com/MohammadBnei/go-ai-cli" class="link ml-4">GitHub</a>`,
 		missions: [
 			{
@@ -325,6 +323,33 @@ export const experience: IExperience[] = [
 				],
 				snapshot: true
 			}
+		]
+	},
+	{
+		enterprise: 'PerfectStay',
+		position: 'Développeur Golang',
+		startDate: new Date('2024-08-26'),
+		description: `PerfectStay est une agence de voyage fonctionnant en B2B2C, proposant un système de réservation de voyage complet (vol, hotel, transport, activité).`,
+		missions: [
+			{
+				title: 'Développement',
+				description: `Développement de nouveaux services et fonctionnalitées.`,
+				skills: [
+					{ name: 'golang', category: 'backend' },
+					{ name: 'terraform', category: 'devops' },
+					{ name: 'aws', category: 'devops' },
+				],
+				snapshot: true
+			},
+			{
+				title: 'Formation',
+				description: 'Formation en golang pour les équipes Java et Front.',
+				skills: [
+					{ name: 'golang', category: 'backend' },
+					{ name: 'formateur', category: 'other' },
+				],
+				snapshot: true
+			},
 		]
 	}
 ];
