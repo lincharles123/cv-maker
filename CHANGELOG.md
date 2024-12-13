@@ -1,5 +1,13 @@
 
 
+# [0.13.0](https://github.com/MohammadBnei/cv-maker/compare/0.12.2...0.13.0) (2024-12-13)
+
+
+### Features
+
+* 🎸 github action ([f4fd69c](https://github.com/MohammadBnei/cv-maker/commit/f4fd69c1fd48e04db9c0fb68fc6df2b9b9c60257))
+* 🎸 pfs experience ([0b1d313](https://github.com/MohammadBnei/cv-maker/commit/0b1d313f95c9ef6c08615c0383a1ee13b4fecbab))
+
 ## [0.12.2](https://github.com/MohammadBnei/cv-maker/compare/0.12.1...0.12.2) (2024-06-13)
 
 
