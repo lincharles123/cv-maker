@@ -1,6 +1,14 @@
 @import "tailwindcss";
 
-@plugin "daisyui";
+@plugin "daisyui" {
+  themes: ["professionnal", "dark", "halloween"],
+  darkTheme: "halloween",
+  root: ":root",
+  include: "",
+  exclude: "",
+  prefix: "",
+  logs: true
+};
 
 @plugin "daisyui/theme" {
   [data-theme=professionnal] {
@@ -25,11 +33,4 @@
     --color-warning: #FBBD23;
     --color-error: #F87272;
   }
-  [data-theme=halloween] {
-    /* Include any specific halloween overrides here */
-  }
-}
-
-daisyui: {
-    darkTheme: 'halloween'
-  }
+}; 
