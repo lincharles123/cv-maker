@@ -125,7 +125,7 @@ export const hobbies: IHobby[] = [
 	},
 	{
 		"name": "Reading",
-		"comment": "(Weber, Ibn Arabi, Edgar Morin, Anton Parks).\nEnhances analytical thinking, communication skills, and understanding of complex ideas.",
+		"comment": "Enhances analytical thinking and communication skills.",
 		"svg": "/reading.svg"
 	}
 ];

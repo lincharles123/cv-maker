@@ -124,7 +124,7 @@ export const hobbies: IHobby[] = [
   },
   {
     "name": "Lecture",
-    "comment": "(Weber, Ibn Arabi, Edgar Morin, Anton Parks). Cultive la pensée analytique, les compétences en communication et la compréhension d'idées complexes.",
+    "comment": "Cultive la pensée analytique et les compétences en communication.",
     "svg": "/reading.svg"
   }
 ];
