@@ -1,17 +1,6 @@
 @import "tailwindcss";
 
-@plugin "daisyui" {
-  themes: ["professionnal", "dark", "halloween"],
-  darkTheme: "halloween",
-  root: ":root",
-  include: "",
-  exclude: "",
-  prefix: "",
-  logs: true
-};
-
 @plugin "daisyui/theme" {
-  name: "professionnal";
   [data-theme=professionnal] {
     --color-primary: #BF8563;
     --color-secondary: #D9631E;
@@ -23,7 +12,6 @@
     --color-warning: #FBBD23;
     --color-error: #F87272;
   }
-  name: "dark";
   [data-theme=dark] {
     --color-primary: #EBF0F2;
     --color-secondary: #D9631E;
@@ -35,8 +23,7 @@
     --color-warning: #FBBD23;
     --color-error: #F87272;
   }
-  name: "halloween";
   [data-theme=halloween] {
     /* Include any specific halloween overrides here */
   }
-};
+}
