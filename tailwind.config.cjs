@@ -79,5 +79,9 @@ module.exports = {
 			}
 		}
 	},
-	plugins: [require('daisyui')]
+	plugins: [require('daisyui')],
+	daisyui: {
+		themes: ['lofi','dark'],
+		darkTheme: 'dark',
+	}
 };
