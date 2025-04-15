@@ -1,4 +1,5 @@
 @import "tailwindcss";
+
 @plugin "daisyui" {
   themes: [
     {
@@ -11,8 +12,8 @@
         info: '#3ABFF8',
         success: '#36D399',
         warning: '#FBBD23',
-        error: '#F87272'
-      }
+        error: '#F87272',
+      },
     },
     'halloween',
     {
@@ -25,14 +26,14 @@
         info: '#3ABFF8',
         success: '#36D399',
         warning: '#FBBD23',
-        error: '#F87272'
-      }
-    }
-  ],
-  darkTheme: 'halloween',
-  root: ":root",
-  include: "",
-  exclude: "",
-  prefix: "",
+        error: '#F87272',
+      },
+    },
+  ];
+  darkTheme: 'halloween';
+  root: ":root";
+  include: "";
+  exclude: "";
+  prefix: "";
   logs: true;
 }
