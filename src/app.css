@@ -25,4 +25,11 @@
     --color-warning: #FBBD23;
     --color-error: #F87272;
   }
+  [data-theme=halloween] {
+    /* Include any specific halloween overrides here */
+  }
 }
+
+daisyui: {
+    darkTheme: 'halloween'
+  }
