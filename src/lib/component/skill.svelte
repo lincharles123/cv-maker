@@ -29,7 +29,7 @@
 	$: searchedSkills = skillSearch
 		? allSkills.filter((skill) =>
 				skill.name.toLocaleLowerCase().includes(skillSearch.toLocaleLowerCase())
-		  )
+			)
 		: allSkills;
 
 	$: reducedAllSkills = searchedSkills.reduce((acc, skill) => {
@@ -69,11 +69,12 @@
 	{/each}
 	{#if !$snapshotMode}
 		<div class="stat w-44">
-			<div class="stat-title capitalize text-center h-fit">
-				{english ? 'All' : 'Tous'}
+			<div class="stat-title text-center h-fit">
+				{english ? 'More' : 'Voir plus'}
 			</div>
-			<button class="btn" on:click={() => document.getElementById('allSkillModal')?.showModal()}
-				>+</button
+			<button
+				class="btn w-fit m-auto"
+				on:click={() => document.getElementById('allSkillModal')?.showModal()}>+</button
 			>
 		</div>
 	{/if}

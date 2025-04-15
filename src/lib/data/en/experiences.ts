@@ -2,6 +2,48 @@ import type { IExperience } from '$lib/component/experience.svelte';
 
 export const experience: IExperience[] = [
 	{
+		enterprise: 'PerfectStay',
+		position: 'Golang Developer',
+		startDate: new Date('2024-08-26'),
+		description: `PerfectStay is a travel agency operating in B2B2C, offering a complete travel booking system (flight, hotel, transportation, activity). `,
+		missions: [
+			{
+				title: 'Development',
+				description: `Development of new services and functionalities.`,
+				skills: [
+					{
+						name: 'golang',
+						category: 'backend'
+					},
+					{
+						name: 'terraform',
+						category: 'devops'
+					},
+					{
+						name: 'aws',
+						category: 'devops'
+					}
+				],
+				snapshot: true
+			},
+			{
+				title: 'Formation',
+				description: 'Golang formation for Java and Front teams',
+				skills: [
+					{
+						name: 'golang',
+						category: 'backend'
+					},
+					{
+						name: 'formation',
+						category: 'other'
+					}
+				],
+				snapshot: true
+			}
+		]
+	},
+	{
 		enterprise: 'Netapsys Lyon',
 		position: 'Web developer - Internship',
 		description: `Netapsys is an IT engineering company, specializing in new technologies and various management solutions. It offers design, development and maintenance of computer applications and information systems.`,
@@ -68,11 +110,15 @@ export const experience: IExperience[] = [
 				title: `GRU (User Relationship Management)`
 			},
 			{
-				title: 'Training',
-				description: 'Training given in VueX (Redux for VueJS)',
+				title: 'Formation',
+				description: 'Formation given in VueX (Redux for VueJS)',
 				skills: [
 					{ name: 'vuejs', category: 'frontend' },
-					{ name: 'redux', category: 'other', color: 'gray' }
+					{ name: 'redux', category: 'other', color: 'gray' },
+					{
+						name: 'formation',
+						category: 'other'
+					}
 				]
 			}
 		]
@@ -80,7 +126,7 @@ export const experience: IExperience[] = [
 	{
 		enterprise: 'Gymglish',
 		position: 'Web developer',
-		description: `Gymglish is a professional training company, specializing in European languages. I was assigned to the Studio, the platform for creating courses.`,
+		description: `Gymglish is a professional formation company, specializing in European languages. I was assigned to the Studio, the platform for creating courses.`,
 		startDate: new Date('2019-09-01'),
 		endDate: new Date('2020-12-01'),
 		missions: [
@@ -244,7 +290,6 @@ export const experience: IExperience[] = [
 		enterprise: 'Voc On Steroid',
 		position: 'Entrepreneur',
 		startDate: new Date('2020-09-01'),
-		endDate: new Date('2030-07-01'),
 		description: `Creation of an application to enrich vocabulary by learning new words.   <a href="https://voconsteroid.com" class="link ml-4"><img src="https://voconsteroid.com/voconsteroidLogoNT384.png" alt="voconsteroid" class="inline w-10" /> voconsteroid.com</a>`,
 		missions: [
 			{
@@ -300,7 +345,6 @@ export const experience: IExperience[] = [
 		position: 'Project Manager',
 		hidden: true,
 		startDate: new Date('2022-07-01'),
-		endDate: new Date('2030-07-01'),
 		description: `Created a CLI tool enabling seamless interaction with AI models for text, TTS, STT, image generation, and web scraping.  <a href="https://github.com/MohammadBnei/go-ai-cli" class="link ml-4">GitHub</a>`,
 		missions: [
 			{

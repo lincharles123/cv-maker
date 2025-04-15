@@ -23,6 +23,14 @@
 	import SkillBadge from './ui/skillBadge.svelte';
 	import { fly } from 'svelte/transition';
 	import { fullExperienceExport, snapshotMode } from '../../store';
+	import { page } from '$app/stores';
+
+	const sortByDates = (a: IExperience, b: IExperience) => {
+		if (a.endDate && b.endDate) return b.endDate.getTime() - a.endDate.getTime();
+		return b.startDate.getTime() - a.startDate.getTime();
+	};
+
+	$: english = $page.url.pathname.includes('/en');
 
 	export let experience: IExperience[] = [
 		{
@@ -53,7 +61,7 @@
 	>
 		{#each experience
 			.filter(({ hidden }) => !hidden)
-			.sort((a, b) => b.endDate.getTime() - a.endDate.getTime()) as item, i (item.enterprise)}
+			.sort(sortByDates) as item, i (item.enterprise)}
 			<li class="ml-4 {i !== 0 ? 'mt-2' : ''} break-inside-avoid" transition:fly>
 				<div
 					class="absolute w-3 h-3 bg-gray-200 rounded-full mt-5 -left-[6.5px] border border-white dark:border-gray-900 dark:bg-gray-700"
@@ -73,7 +81,7 @@
 					<div class="card-body py-4">
 						<time class="text-sm font-normal text-accent self-start -mb-2">
 							{formatDate(item.startDate)} -
-							{formatDate(item.endDate)}
+							{item.endDate ? formatDate(item.endDate) : english ? 'current' : 'en poste'}
 						</time>
 						<h3 class="font-bold text-xl capitalize card-title text-left">
 							{item.enterprise} - {item.position}
@@ -84,7 +92,7 @@
 							</p>
 
 							{#if !$snapshotMode}
-								<div class="tooltip tooltip-left" data-tip="Détails de la mission">
+								<div class="tooltip tooltip-left" data-tip={english ? 'Details' : 'Détails'}>
 									<button
 										aria-label="details"
 										class="btn btn-sm btn-outline"

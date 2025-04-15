@@ -18,7 +18,7 @@ export const contactInfo: IContactInfo = {
 	email: 'mohammadamine.banaei@gmail.com',
 	links: [
 		{
-			url: 'https://bnei.dev',
+			url: 'https://blog.bnei.dev',
 			type: 'other'
 		},
 		{
