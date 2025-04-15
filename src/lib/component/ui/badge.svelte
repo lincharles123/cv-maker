@@ -15,3 +15,9 @@
 	class="inline-flex items-center rounded-md {color} px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition"
 	>{content.toLocaleUpperCase()}</span
 >
+
+<style lang="postcss">
+	.none {
+		@apply ring-base-200 dark:ring-gray-500;
+	}
+</style>
