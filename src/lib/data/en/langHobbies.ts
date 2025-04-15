@@ -119,13 +119,13 @@ export const langs: ILang[] = [
 
 export const hobbies: IHobby[] = [
 	{
-		name: 'boxing',
-		comment: 'English & Thai',
-		svg: '/boxing-glove.svg'
+		"name": "Boxing (English & Thai)",
+		"comment": "Cultivates discipline, strategic thinking, and resilience",
+		"svg": "/boxing-glove.svg"
 	},
 	{
-		name: 'reading',
-		comment: 'Weber, Maupassant',
-		svg: '/reading.svg'
+		"name": "Reading",
+		"comment": "(Weber, Ibn Arabi, Edgar Morin, Anton Parks).\nEnhances analytical thinking, communication skills, and understanding of complex ideas.",
+		"svg": "/reading.svg"
 	}
 ];

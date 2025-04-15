@@ -117,14 +117,14 @@ export const langs: ILang[] = [
 ];
 
 export const hobbies: IHobby[] = [
-	{
-		name: 'boxe',
-		comment: 'anglaise & thaïlandaise',
-		svg: '/boxing-glove.svg'
-	},
-	{
-		name: 'lecture',
-		comment: 'Weber, Maupassant',
-		svg: '/reading.svg'
-	}
+  {
+    "name": "Boxe (Anglaise & Thaïlandaise)",
+    "comment": "Développe la discipline, la pensée stratégique et la résilience.",
+    "svg": "/boxing-glove.svg"
+  },
+  {
+    "name": "Lecture",
+    "comment": "(Weber, Ibn Arabi, Edgar Morin, Anton Parks). Cultive la pensée analytique, les compétences en communication et la compréhension d'idées complexes.",
+    "svg": "/reading.svg"
+  }
 ];
