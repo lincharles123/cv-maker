@@ -5,7 +5,7 @@
 		enterprise: string;
 		position: string;
 		startDate: Date;
-		endDate: Date;
+		endDate?: Date;
 		description: string;
 		hidden?: boolean;
 		missions: {
