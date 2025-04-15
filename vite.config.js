@@ -3,7 +3,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 /** @type {import('vite').UserConfig} */
 const config = {
-	plugins: [sveltekit(), tailwindcss()],
+	plugins: [tailwindcss(), sveltekit()],
 	optimizeDeps: { include: ['dayjs/plugin/relativeTime.js'] }
 };
 
