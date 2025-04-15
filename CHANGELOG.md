@@ -1,4 +1,20 @@
+# Changelog
 
+# [0.14.0](https://github.com/MohammadBnei/cv-maker/compare/0.13.0...0.14.0) (2025-04-15)
+
+
+### Bug Fixes
+
+* Correctly define and scope daisyUI themes in app.css ([40302a4](https://github.com/MohammadBnei/cv-maker/commit/40302a4a68961bf35c2f6b8f8ce9d381ee8dec64))
+* Correctly import daisyui theme in app.css ([d4f37b0](https://github.com/MohammadBnei/cv-maker/commit/d4f37b03552cbf12955695112e2bdbdcde043854))
+
+
+### Features
+
+* Add halloween theme and daisyui darkTheme configuration ([1d2eb19](https://github.com/MohammadBnei/cv-maker/commit/1d2eb19d449d852a2b7425ba641702c588c5da45))
+* Configure daisyUI with themes and dark theme ([729e610](https://github.com/MohammadBnei/cv-maker/commit/729e610f6f7ee2a3a6199ba6c5fa823fa55e84f3))
+* Remove daisyUI plugin and configuration ([e49f869](https://github.com/MohammadBnei/cv-maker/commit/e49f869fe1803ea3ebf13c9638a909fdb83ee59b))
+* Update tailwind.config.cjs with daisyUI configuration and themes ([eaafed6](https://github.com/MohammadBnei/cv-maker/commit/eaafed6647b0aa54f0e0b81979a8847fb0103a7b))
 
 # [0.13.0](https://github.com/MohammadBnei/cv-maker/compare/0.12.2...0.13.0) (2024-12-13)
 
