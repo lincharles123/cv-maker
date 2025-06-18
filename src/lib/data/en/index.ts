@@ -24,7 +24,7 @@ export const contactInfo: IContactInfo = {
 		},
 		{
 			name: 'LinkedIn',
-			url: 'www.linkedin.com/in/charles-lin-3ab364323',
+			url: 'https://www.linkedin.com/in/charles-lin-3ab364323',
 			type: 'linkedin'
 		}
 	]
