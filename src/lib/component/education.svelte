@@ -19,12 +19,12 @@
 
 	export let education: IEducation[] = [
 		{
-			level: 'DUT',
-			title: 'DUT GEII (Génie électrique et informatique industrielle)',
-			school: 'IUT Lyon 1',
-			startDate: new Date('2013-09-01'),
-			endDate: new Date('2015-07-01'),
-			description: `Au cours de mon DUT GEII à l'IUT Lyon 1, j'ai acquis une solide base dans des domaines variés. En tant qu'étudiant, j'ai intensivement étudié les mathématiques et la physique, ce qui m'a permis de comprendre les principes fondamentaux derrière la conception et l'ingénierie. J'ai également développé des compétences en électricité et électronique, ce qui m'a donné une bonne connaissance des réseaux électriques et des circuits intégrés. De plus, j'ai également plongé dans l'étude de la robotique, approfondissant ainsi ma compréhension des systèmes automatisés. Cette formation complète et pratique m'a préparé pour une carrière dans divers secteurs industriels en tant que technicien supérieur ou assistant ingénieur.`
+			level: 'Master',
+			title: 'Master Informatique',
+			school: 'UPMC',
+			startDate: new Date('2022-09-01'),
+			endDate: new Date('2024-09-30'),
+			description: `Formation avancée en recherche opérationnelle, intelligence artificielle et la résolution algorithmique de problèmes.`
 		}
 	];
 </script>

@@ -78,7 +78,7 @@ const experiencesStore = () => {
 							return acc;
 						}, [] as IExperience[])
 						.sort(sortFn)
-			  )
+			)
 			: set(initial)
 	);
 

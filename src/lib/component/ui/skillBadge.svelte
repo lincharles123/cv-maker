@@ -7,12 +7,13 @@
 </script>
 
 <span
-	class="inline-flex items-center {snapshotMode
-		? 'text-xs'
-		: ''} font-bold rounded-md default {skill.category} px-2 py-1 ring-1 ring-inset {scale
-		? 'hover:scale-[1.03]'
+	class="inline-flex items-center 
+		{ snapshotMode ? 'text-xs' : ''} 
+		font-bold rounded-md default {skill.category} px-2 py-1 ring-1 ring-inset {scale
+		? 'hover:scale-[1.05]'
 		: 'hover:skew-y-2'} transition
 		{$selectedSkills.some(({ name }) => name === skill?.name) ? 'outline outline-2' : ''}
+		dark:text-black
 		"
 	>{skill?.name.toLocaleUpperCase()}
 </span>

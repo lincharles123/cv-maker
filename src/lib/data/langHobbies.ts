@@ -47,6 +47,18 @@ export const langs: ILang[] = [
 		comment: 'Langue maternelle'
 	},
 	{
+		name: 'chinois',
+		codes: [
+			'cn',
+			'hk',
+			'mn',
+			'sg',
+			'tw',
+			'mo'
+		],
+		comment: 'Langue maternelle'
+	},
+	{
 		name: 'anglais',
 		codes: [
 			'ag',
@@ -107,24 +119,19 @@ export const langs: ILang[] = [
 			'zm',
 			'zw'
 		],
-		comment: 'bilingue'
+		comment: 'Technique (C1)'
 	},
-	{
-		name: 'persian',
-		codes: ['af', 'ir', 'tj'],
-		comment: 'parlé'
-	}
 ];
 
 export const hobbies: IHobby[] = [
   {
-    "name": "Boxe (Anglaise & Thaïlandaise)",
-    "comment": "Développe la discipline, la pensée stratégique et la résilience.",
-    "svg": "/boxing-glove.svg"
+    "name": "Musculation",
+    "comment": "Renforce le corps et améliore la condition physique.",
+    "svg": "/dumbell.svg"
   },
   {
-    "name": "Lecture",
-    "comment": "Cultive la pensée analytique et les compétences en communication.",
-    "svg": "/reading.svg"
+    "name": "Badminton",
+    "comment": "Améliore l'agilité et la coordination.",
+    "svg": "/badminton_shuttlecock.svg"
   }
 ];

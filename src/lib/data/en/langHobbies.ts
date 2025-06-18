@@ -1,10 +1,9 @@
-// Filename : langHobbies.ts
 import type { IHobby } from '$lib/component/hobby.svelte';
 import type { ILang } from '$lib/component/lang.svelte';
 
 export const langs: ILang[] = [
 	{
-		name: 'French',
+		name: 'français',
 		codes: [
 			'bi',
 			'bf',
@@ -48,7 +47,19 @@ export const langs: ILang[] = [
 		comment: 'native language'
 	},
 	{
-		name: 'English',
+		name: 'chinois',
+		codes: [
+			'cn',
+			'hk',
+			'mn',
+			'sg',
+			'tw',
+			'mo'
+		],
+		comment: 'native language'
+	},
+	{
+		name: 'english',
 		codes: [
 			'ag',
 			'ai',
@@ -108,24 +119,19 @@ export const langs: ILang[] = [
 			'zm',
 			'zw'
 		],
-		comment: 'bilingual'
+		comment: 'Technical (C1)'
 	},
-	{
-		name: 'Persian',
-		codes: ['af', 'ir', 'tj'],
-		comment: 'spoken'
-	}
 ];
 
 export const hobbies: IHobby[] = [
-	{
-		"name": "Boxing (English & Thai)",
-		"comment": "Cultivates discipline, strategic thinking, and resilience",
-		"svg": "/boxing-glove.svg"
-	},
-	{
-		"name": "Reading",
-		"comment": "Enhances analytical thinking and communication skills.",
-		"svg": "/reading.svg"
-	}
+  {
+    "name": "Strength Training",
+    "comment": "Strengthens muscles and improves overall fitness.",
+    "svg": "/dumbell.svg"
+  },
+  {
+    "name": "Badminton",
+    "comment": "Enhances agility and coordination.",
+    "svg": "/badminton_shuttlecock.svg"
+  }
 ];

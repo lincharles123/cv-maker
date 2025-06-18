@@ -55,9 +55,6 @@
 </div>
 <div class="hero grow pt-1 pb-2">
 	<div class="text-center sm:text-left desktop-grid w-screen place-items-center gap-2">
-		<!-- <div style="grid-area: picture;">
-			<img src="/photo_cv.jpg" alt="Mohammad-Amine Banaei" class="mask mask-squircle w-32" />
-		</div> -->
 		<div class="my-4 flex justify-center self-start w-full" style="grid-area: skill;">
 			<Skill {skills} allSkills={Array.from(allSkills.values())} />
 		</div>

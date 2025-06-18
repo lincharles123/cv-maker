@@ -8,27 +8,23 @@ import { hobbies, langs } from './langHobbies';
 export { experience, education, langs, hobbies };
 
 export const title: ITitle = {
-	jobDesc: 'Web Engineer'
+	jobDesc: 'Full Stack Developer',
 };
 
 export const contactInfo: IContactInfo = {
-	name: 'Mohammad-Amine BANAEI',
-	nationality: 'French Nationality',
-	phone: '+33 6 61 93 90 82',
-	email: 'mohammadamine.banaei@gmail.com',
+	name: 'Charles LIN',
+	nationality: 'Nationalité Française',
+	phone: '+33 6 95 79 17 78',
+	email: 'charles1.lin@outlook.com',
 	links: [
 		{
-			url: 'https://blog.bnei.dev',
-			type: 'other'
-		},
-		{
 			name: 'Github',
-			url: 'https://github.com/mohammadbnei',
+			url: 'https://github.com/lincharles123',
 			type: 'github'
 		},
 		{
 			name: 'LinkedIn',
-			url: 'https://www.linkedin.com/in/mbnei',
+			url: 'www.linkedin.com/in/charles-lin-3ab364323',
 			type: 'linkedin'
 		}
 	]
@@ -36,7 +32,7 @@ export const contactInfo: IContactInfo = {
 
 export const skills: ISkill[] = [
 	{
-		name: 'golang',
+		name: 'django',
 		category: 'backend'
 	},
 	{
@@ -48,7 +44,7 @@ export const skills: ISkill[] = [
 		category: 'frontend'
 	},
 	{
-		name: 'sveltekit',
+		name: 'nextjs',
 		category: 'frontend'
 	},
 	{
@@ -66,10 +62,6 @@ export const skills: ISkill[] = [
 	{
 		name: 'docker',
 		category: 'devops'
-	},
-	{
-		name: 'gcp',
-		category: 'system'
 	},
 	{
 		name: 'linux',
