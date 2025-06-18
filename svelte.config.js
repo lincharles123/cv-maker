@@ -8,7 +8,10 @@ const config = {
 	preprocess: vitePreprocess(),
 
 	kit: {
-		adapter: adapterStatic()
+		adapter: adapterStatic(),
+		prerender: {
+			handleHttpError: 'warn'
+		}
 	}
 };
 
