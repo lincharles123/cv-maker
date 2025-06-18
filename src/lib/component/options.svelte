@@ -43,6 +43,8 @@
 				<DarkModeBtn width={22} classes="p-2 m-auto" />
 			</li>
 		{/if}
+		
+		
 		<li>
 			<a href={$page.url.pathname.includes('en') ? '/' : '/en'} class="p-2 m-auto">
 				{#if $page.url.pathname.includes('en')}
@@ -52,7 +54,7 @@
 				{/if}
 			</a>
 		</li>
-		<li>
+		<!-- <li>
 			<a
 				href="#"
 				on:click|preventDefault={() => document.getElementById('dl-dialog')?.showModal()}
@@ -60,7 +62,7 @@
 			>
 				<Download width={22} />
 			</a>
-		</li>
+		</li> -->
 		{#if $selectedSkills.length > 0}
 			<li class:animate-ping={pulse}>
 				<RemoveFilteredSkills width={22} />
