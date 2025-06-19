@@ -13,7 +13,7 @@ export const title: ITitle = {
 
 export const contactInfo: IContactInfo = {
 	name: 'Charles LIN',
-	nationality: 'Nationalité Française',
+	nationality: 'French Nationality',
 	phone: '+33 6 95 79 17 78',
 	email: 'charles1.lin@outlook.com',
 	links: [

@@ -9,8 +9,8 @@ export const education: IEducation[] = [
 		endDate: new Date('2025-04-01'),
 		description: `Certification professionnelle couvrant le développement web full stack , les outils DevOps ainsi que la méthodologie agile.`,
 		skills: [
-			{ name: 'nodejs', category: 'frontend' },
 			{ name: 'reactjs', category: 'frontend' },
+			{ name: 'nodejs', category: 'backend' },
 			{ name: 'python', category: 'backend' },
 			{ name: 'java', category: 'backend' },
 			{ name: 'typescript', category: 'backend'},
@@ -34,8 +34,8 @@ export const education: IEducation[] = [
 		endDate: new Date('2024-09-30'),
 		description: `Formation avancée en recherche opérationnelle, intelligence artificielle et la résolution algorithmique de problèmes.`,
 		skills: [
-			{ name: 'nodejs', category: 'frontend' },
 			{ name: 'reactjs', category: 'frontend' },
+			{ name: 'nodejs', category: 'backend' },
 			{ name: 'python', category: 'backend' },
 			{ name: 'java', category: 'backend' },
 			{ name: 'typescript', category: 'backend'},
@@ -58,8 +58,8 @@ export const education: IEducation[] = [
 		endDate: new Date('2022-06-01'),
 		description: `Formation générale en informatique.`,
 		skills: [
-			{ name: 'nodejs', category: 'frontend' },
 			{ name: 'reactjs', category: 'frontend' },
+			{ name: 'nodejs', category: 'backend' },
 			{ name: 'python', category: 'backend' },
 			{ name: 'java', category: 'backend' },
 			{ name: 'sql', category: 'data' },

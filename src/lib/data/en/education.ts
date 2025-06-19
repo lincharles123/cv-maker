@@ -9,8 +9,8 @@ export const education: IEducation[] = [
 		endDate: new Date('2025-04-01'),
 		description: `Professional certificate covering full stack web development, DevOps tools, and agile methodology.`,
 		skills: [
-			{ name: 'nodejs', category: 'frontend' },
 			{ name: 'reactjs', category: 'frontend' },
+			{ name: 'nodejs', category: 'backend' },
 			{ name: 'python', category: 'backend' },
 			{ name: 'java', category: 'backend' },
 			{ name: 'typescript', category: 'backend'},
@@ -34,8 +34,8 @@ export const education: IEducation[] = [
 		endDate: new Date('2024-09-30'),
 		description: `Specialization in operational research, artificial intelligence, and algorithmic problem solving.`,
 		skills: [
-			{ name: 'nodejs', category: 'frontend' },
 			{ name: 'reactjs', category: 'frontend' },
+			{ name: 'nodejs', category: 'backend' },
 			{ name: 'python', category: 'backend' },
 			{ name: 'java', category: 'backend' },
 			{ name: 'typescript', category: 'backend'},
@@ -58,8 +58,8 @@ export const education: IEducation[] = [
 		endDate: new Date('2022-06-01'),
 		description: `Foundational studies in computer science`,
 		skills: [
-			{ name: 'nodejs', category: 'frontend' },
 			{ name: 'reactjs', category: 'frontend' },
+			{ name: 'nodejs', category: 'backend' },
 			{ name: 'python', category: 'backend' },
 			{ name: 'java', category: 'backend' },
 			{ name: 'sql', category: 'data' },
